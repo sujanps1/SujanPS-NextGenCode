@@ -1,0 +1,30 @@
+<div *ngIf="showLoginScreen else mainscreen">
+    <cc-login-screen></cc-login-screen>
+    <!-- <div style="padding-top: 36px;"> -->
+    <div style="height: 100% !important;">
+        <cc-loading-screen-modal></cc-loading-screen-modal>
+    </div>
+</div>
+
+<ng-template #mainscreen>
+    <cc-header [showCancel]="showTransactionWindow"></cc-header>
+
+    <div [ngSwitch]="showTransactionWindow">
+        <div *ngSwitchCase="false">
+            <cc-home-screen></cc-home-screen>
+        </div>
+        <div *ngSwitchCase="true">
+            <ng-container *ngTemplateOutlet="cashadvance"></ng-container>
+        </div>
+    </div>
+    
+    <ng-template #cashadvance>
+        <cc-transactionwindow></cc-transactionwindow>
+        <cc-ingenico-modal></cc-ingenico-modal>
+        <cc-loading-screen-modal headervisible></cc-loading-screen-modal>
+        <cc-transaction-status-modal></cc-transaction-status-modal>
+        <cc-transaction-summary-modal></cc-transaction-summary-modal>
+    </ng-template>
+    
+
+<app-connection-closed-popup *ngIf="showConnectionClosedPopup" (closePopup)="closePopup()"></app-connection-closed-popup>

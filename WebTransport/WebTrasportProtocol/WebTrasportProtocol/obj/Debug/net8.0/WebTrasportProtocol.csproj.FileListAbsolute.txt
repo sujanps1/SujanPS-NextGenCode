@@ -1,0 +1,72 @@
+C:\Users\sujan.ps\source\repos\WebTrasportProtocol\WebTrasportProtocol\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\sujan.ps\source\repos\WebTrasportProtocol\WebTrasportProtocol\bin\Debug\net8.0\appsettings.json
+C:\Users\sujan.ps\source\repos\WebTrasportProtocol\WebTrasportProtocol\bin\Debug\net8.0\WebTrasportProtocol.exe
+C:\Users\sujan.ps\source\repos\WebTrasportProtocol\WebTrasportProtocol\bin\Debug\net8.0\WebTrasportProtocol.deps.json
+C:\Users\sujan.ps\source\repos\WebTrasportProtocol\WebTrasportProtocol\bin\Debug\net8.0\WebTrasportProtocol.runtimeconfig.json
+C:\Users\sujan.ps\source\repos\WebTrasportProtocol\WebTrasportProtocol\bin\Debug\net8.0\WebTrasportProtocol.dll
+C:\Users\sujan.ps\source\repos\WebTrasportProtocol\WebTrasportProtocol\bin\Debug\net8.0\WebTrasportProtocol.pdb
+C:\Users\sujan.ps\source\repos\WebTrasportProtocol\WebTrasportProtocol\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\sujan.ps\source\repos\WebTrasportProtocol\WebTrasportProtocol\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\sujan.ps\source\repos\WebTrasportProtocol\WebTrasportProtocol\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sujan.ps\source\repos\WebTrasportProtocol\WebTrasportProtocol\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sujan.ps\source\repos\WebTrasportProtocol\WebTrasportProtocol\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sujan.ps\source\repos\WebTrasportProtocol\WebTrasportProtocol\bin\Debug\net8.0\Everi.CAPS.Utility.dll
+C:\Users\sujan.ps\source\repos\WebTrasportProtocol\WebTrasportProtocol\bin\Debug\net8.0\EviCapsConnect.dll
+C:\Users\sujan.ps\source\repos\WebTrasportProtocol\WebTrasportProtocol\bin\Debug\net8.0\GCA.CashClub.CashClubUtility.dll
+C:\Users\sujan.ps\source\repos\WebTrasportProtocol\WebTrasportProtocol\obj\Debug\net8.0\WebTrasportProtocol.csproj.AssemblyReference.cache
+C:\Users\sujan.ps\source\repos\WebTrasportProtocol\WebTrasportProtocol\obj\Debug\net8.0\WebTrasportProtocol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sujan.ps\source\repos\WebTrasportProtocol\WebTrasportProtocol\obj\Debug\net8.0\WebTrasportProtocol.AssemblyInfoInputs.cache
+C:\Users\sujan.ps\source\repos\WebTrasportProtocol\WebTrasportProtocol\obj\Debug\net8.0\WebTrasportProtocol.AssemblyInfo.cs
+C:\Users\sujan.ps\source\repos\WebTrasportProtocol\WebTrasportProtocol\obj\Debug\net8.0\WebTrasportProtocol.csproj.CoreCompileInputs.cache
+C:\Users\sujan.ps\source\repos\WebTrasportProtocol\WebTrasportProtocol\obj\Debug\net8.0\WebTrasportProtocol.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sujan.ps\source\repos\WebTrasportProtocol\WebTrasportProtocol\obj\Debug\net8.0\WebTrasportProtocol.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sujan.ps\source\repos\WebTrasportProtocol\WebTrasportProtocol\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\sujan.ps\source\repos\WebTrasportProtocol\WebTrasportProtocol\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\sujan.ps\source\repos\WebTrasportProtocol\WebTrasportProtocol\obj\Debug\net8.0\staticwebassets\msbuild.WebTrasportProtocol.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sujan.ps\source\repos\WebTrasportProtocol\WebTrasportProtocol\obj\Debug\net8.0\staticwebassets\msbuild.build.WebTrasportProtocol.props
+C:\Users\sujan.ps\source\repos\WebTrasportProtocol\WebTrasportProtocol\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebTrasportProtocol.props
+C:\Users\sujan.ps\source\repos\WebTrasportProtocol\WebTrasportProtocol\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebTrasportProtocol.props
+C:\Users\sujan.ps\source\repos\WebTrasportProtocol\WebTrasportProtocol\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\sujan.ps\source\repos\WebTrasportProtocol\WebTrasportProtocol\obj\Debug\net8.0\scopedcss\bundle\WebTrasportProtocol.styles.css
+C:\Users\sujan.ps\source\repos\WebTrasportProtocol\WebTrasportProtocol\obj\Debug\net8.0\WebTrasp.EDE9E6F6.Up2Date
+C:\Users\sujan.ps\source\repos\WebTrasportProtocol\WebTrasportProtocol\obj\Debug\net8.0\WebTrasportProtocol.dll
+C:\Users\sujan.ps\source\repos\WebTrasportProtocol\WebTrasportProtocol\obj\Debug\net8.0\refint\WebTrasportProtocol.dll
+C:\Users\sujan.ps\source\repos\WebTrasportProtocol\WebTrasportProtocol\obj\Debug\net8.0\WebTrasportProtocol.pdb
+C:\Users\sujan.ps\source\repos\WebTrasportProtocol\WebTrasportProtocol\obj\Debug\net8.0\WebTrasportProtocol.genruntimeconfig.cache
+C:\Users\sujan.ps\source\repos\WebTrasportProtocol\WebTrasportProtocol\obj\Debug\net8.0\ref\WebTrasportProtocol.dll
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\SujanPS-Tasks\WebTransport\WebTrasportProtocol\WebTrasportProtocol\obj\Debug\net8.0\WebTrasportProtocol.csproj.AssemblyReference.cache
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\SujanPS-Tasks\WebTransport\WebTrasportProtocol\WebTrasportProtocol\obj\Debug\net8.0\WebTrasportProtocol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\SujanPS-Tasks\WebTransport\WebTrasportProtocol\WebTrasportProtocol\obj\Debug\net8.0\WebTrasportProtocol.AssemblyInfoInputs.cache
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\SujanPS-Tasks\WebTransport\WebTrasportProtocol\WebTrasportProtocol\obj\Debug\net8.0\WebTrasportProtocol.AssemblyInfo.cs
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\SujanPS-Tasks\WebTransport\WebTrasportProtocol\WebTrasportProtocol\obj\Debug\net8.0\WebTrasportProtocol.csproj.CoreCompileInputs.cache
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\SujanPS-Tasks\WebTransport\WebTrasportProtocol\WebTrasportProtocol\obj\Debug\net8.0\WebTrasportProtocol.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\SujanPS-Tasks\WebTransport\WebTrasportProtocol\WebTrasportProtocol\obj\Debug\net8.0\WebTrasportProtocol.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\SujanPS-Tasks\WebTransport\WebTrasportProtocol\WebTrasportProtocol\obj\Debug\net8.0\WebTrasportProtocol.dll
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\SujanPS-Tasks\WebTransport\WebTrasportProtocol\WebTrasportProtocol\obj\Debug\net8.0\refint\WebTrasportProtocol.dll
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\SujanPS-Tasks\WebTransport\WebTrasportProtocol\WebTrasportProtocol\obj\Debug\net8.0\WebTrasportProtocol.pdb
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\SujanPS-Tasks\WebTransport\WebTrasportProtocol\WebTrasportProtocol\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\SujanPS-Tasks\WebTransport\WebTrasportProtocol\WebTrasportProtocol\bin\Debug\net8.0\appsettings.json
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\SujanPS-Tasks\WebTransport\WebTrasportProtocol\WebTrasportProtocol\bin\Debug\net8.0\WebTrasportProtocol.exe
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\SujanPS-Tasks\WebTransport\WebTrasportProtocol\WebTrasportProtocol\bin\Debug\net8.0\WebTrasportProtocol.deps.json
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\SujanPS-Tasks\WebTransport\WebTrasportProtocol\WebTrasportProtocol\bin\Debug\net8.0\WebTrasportProtocol.runtimeconfig.json
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\SujanPS-Tasks\WebTransport\WebTrasportProtocol\WebTrasportProtocol\bin\Debug\net8.0\WebTrasportProtocol.dll
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\SujanPS-Tasks\WebTransport\WebTrasportProtocol\WebTrasportProtocol\bin\Debug\net8.0\WebTrasportProtocol.pdb
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\SujanPS-Tasks\WebTransport\WebTrasportProtocol\WebTrasportProtocol\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\SujanPS-Tasks\WebTransport\WebTrasportProtocol\WebTrasportProtocol\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\SujanPS-Tasks\WebTransport\WebTrasportProtocol\WebTrasportProtocol\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\SujanPS-Tasks\WebTransport\WebTrasportProtocol\WebTrasportProtocol\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\SujanPS-Tasks\WebTransport\WebTrasportProtocol\WebTrasportProtocol\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\SujanPS-Tasks\WebTransport\WebTrasportProtocol\WebTrasportProtocol\bin\Debug\net8.0\Everi.CAPS.Utility.dll
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\SujanPS-Tasks\WebTransport\WebTrasportProtocol\WebTrasportProtocol\bin\Debug\net8.0\EviCapsConnect.dll
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\SujanPS-Tasks\WebTransport\WebTrasportProtocol\WebTrasportProtocol\bin\Debug\net8.0\GCA.CashClub.CashClubUtility.dll
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\SujanPS-Tasks\WebTransport\WebTrasportProtocol\WebTrasportProtocol\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\SujanPS-Tasks\WebTransport\WebTrasportProtocol\WebTrasportProtocol\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\SujanPS-Tasks\WebTransport\WebTrasportProtocol\WebTrasportProtocol\obj\Debug\net8.0\staticwebassets\msbuild.WebTrasportProtocol.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\SujanPS-Tasks\WebTransport\WebTrasportProtocol\WebTrasportProtocol\obj\Debug\net8.0\staticwebassets\msbuild.build.WebTrasportProtocol.props
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\SujanPS-Tasks\WebTransport\WebTrasportProtocol\WebTrasportProtocol\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebTrasportProtocol.props
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\SujanPS-Tasks\WebTransport\WebTrasportProtocol\WebTrasportProtocol\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebTrasportProtocol.props
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\SujanPS-Tasks\WebTransport\WebTrasportProtocol\WebTrasportProtocol\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\SujanPS-Tasks\WebTransport\WebTrasportProtocol\WebTrasportProtocol\obj\Debug\net8.0\scopedcss\bundle\WebTrasportProtocol.styles.css
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\SujanPS-Tasks\WebTransport\WebTrasportProtocol\WebTrasportProtocol\obj\Debug\net8.0\WebTrasp.EDE9E6F6.Up2Date
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\SujanPS-Tasks\WebTransport\WebTrasportProtocol\WebTrasportProtocol\obj\Debug\net8.0\WebTrasportProtocol.genruntimeconfig.cache
+C:\Users\sujan.ps\OneDrive - Everi Payments, Inc\Desktop\SujanPS-Tasks\WebTransport\WebTrasportProtocol\WebTrasportProtocol\obj\Debug\net8.0\ref\WebTrasportProtocol.dll

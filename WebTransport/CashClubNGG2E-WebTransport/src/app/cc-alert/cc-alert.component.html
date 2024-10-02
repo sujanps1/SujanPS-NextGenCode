@@ -1,0 +1,12 @@
+<!-- <div *ngFor="let item of alertList">
+    <div class="cc-alert" *ngIf="item.alertMessage" [@divAppear]
+    (@divAppear.done)="alertShown($event)">
+        <label class="cc-fontbody cc-alert-text" for="messagecontent">{{item.alertMessage}}</label>
+        <button class="cc-buttonalert" (click)="onDismiss()">Dismiss</button>
+    </div>
+</div> -->
+
+<div class="cc-alert" *ngIf="shown" [@divAppear] (@divAppear.done)="alertShown($event)">
+    <label class="cc-fontbody cc-alert-text" for="messagecontent">{{messagetext}}</label>
+    <button class="cc-buttonalert" (click)="onDismiss()">Dismiss</button>
+</div>

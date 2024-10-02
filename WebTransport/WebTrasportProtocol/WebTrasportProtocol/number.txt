@@ -1,0 +1,5 @@
+﻿Receipt Number: 5468, Cage Operator: anil, Time: 9/20/2024 4:15:11 PM
+Receipt Number: 4249, Cage Operator: Ashik, Time: 9/23/2024 9:52:35 AM
+Receipt Number: 5084, Cage Operator: ashik, Time: 9/24/2024 10:22:25 AM
+Receipt Number: 4270, Cage Operator: Sriya, Time: 9/24/2024 3:00:28 PM
+Receipt Number: 1280, Cage Operator: anil, Time: 10/2/2024 2:19:02 PM

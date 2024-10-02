@@ -1,0 +1,19 @@
+<cc-alert></cc-alert>
+<div style="height: 100%; width: 100%; position:fixed;">
+  <div class="cc-transaction-container-left">
+    <div class="cc-transaction-container-top">
+      <cc-patron-search></cc-patron-search>
+    </div>
+    <div class="cc-transaction-container-bottom">
+      <cc-patron-information></cc-patron-information>
+    </div>
+  </div>
+  <div class="cc-transaction-container-right">
+    <div class="container" class="cc-transaction-container-top">
+      <cc-transaction-detail></cc-transaction-detail>
+    </div>
+    <div class="cc-transaction-container-bottom">
+      <cc-amount-details [isAmountEnabled]=enableAmount></cc-amount-details>
+    </div>
+  </div>
+</div>

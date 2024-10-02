@@ -1,0 +1,14 @@
+.cc-modal-ingenico {
+    margin-top: 5%;
+    width: 238px;
+    height: 402px;
+    opacity: 1;
+}
+
+.cc-modal-animation {
+    margin-top: 3%;
+    width: 144px;
+    height: 96px;
+    /* UI Properties */
+    opacity: 1;
+}

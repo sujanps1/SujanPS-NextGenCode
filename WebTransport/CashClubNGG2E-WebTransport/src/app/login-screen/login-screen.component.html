@@ -1,0 +1,26 @@
+<div class="cc-login">
+    <div class="cc-loginbanner">
+      <img class="cc-loginbannercclogo" src="../../assets/images/Cash-Club_white@2x.png" alt="Cash Advance">
+    </div>
+    <div class="cc-logininputcontainer">
+      <img class="cc-logineverilogo" src="../../assets/images/EVERI_Logo_h_150X150_ForIT-01@2x.png"
+        alt="Cash Advance">
+      <form (ngSubmit)="onSearch(ccuserlogin)" #ccuserlogin="ngForm" class="col-md-8">
+        <div class="row">
+          <div style="margin-bottom:38px;">
+          <cc-textbox type="text" id="ccuser" name="ccuser" placeholder="User ID" [(ngModel)]="ccuser"
+            maxlength="25" required></cc-textbox>
+          <span *ngIf="message" style="color:red;">{{ message }}</span>
+        </div>
+        <div style="margin-bottom:56px;">
+          <cc-textbox type="password" id="password" name="password" placeholder="Password"
+            [(ngModel)]="ccpassword" required></cc-textbox>
+          <span *ngIf="message2" style="color:red;">{{ message2 }}</span>
+        </div>
+        </div>
+        <div class="float-end">
+          <button class="cc-buttonprimary" [disabled]="!ccuserlogin.valid">Sign In</button>
+        </div>
+      </form>
+    </div>
+  </div>

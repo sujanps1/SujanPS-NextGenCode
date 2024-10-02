@@ -1,0 +1,64 @@
+﻿Receipt Number: 3069, Cage Operator: Albama
+Receipt Number: 3180, Cage Operator: sujan
+Receipt Number: 4871, Cage Operator Name: Sujan
+Receipt Number: 6323, Cage Operator name: sujan
+Receipt Number: 8627, Cage Operator name: sujan
+Receipt Number: 8203, Cage Operator: sujanps
+Receipt Number: 8589, Cage Operator: sujanps
+Receipt Number: 3578, Cage Operator: sujanps
+Receipt Number: 8532, Cage Operator: sujans
+Receipt Number: 8522, Cage Operator: sujanps, Time: 9/9/2024 11:48:55 AM
+Receipt Number: 7157, Cage Operator: sujanps, Time: 9/9/2024 12:16:59 PM
+Receipt Number: 9397, Cage Operator: sujanps, Time: 9/9/2024 12:17:05 PM
+Receipt Number: 4027, Cage Operator: Sujanps, Time: 9/9/2024 1:15:26 PM
+Receipt Number: 8476, Cage Operator: Danielloy, Time: 9/9/2024 1:15:32 PM
+Receipt Number: 2299, Cage Operator: Danile, Time: 9/9/2024 1:18:02 PM
+Receipt Number: 2466, Cage Operator: shiri', Time: 9/9/2024 1:18:31 PM
+Receipt Number: 1195, Cage Operator: sujan, Time: 9/9/2024 2:25:46 PM
+Receipt Number: 3594, Cage Operator: yes, Time: 9/9/2024 2:25:57 PM
+Receipt Number: 2715, Cage Operator: nssj, Time: 9/9/2024 2:31:56 PM
+Receipt Number: 2376, Cage Operator: riya, Time: 9/9/2024 2:38:44 PM
+Receipt Number: 9760, Cage Operator: sujan, Time: 9/9/2024 2:52:56 PM
+Receipt Number: 7984, Cage Operator: sjhhhd, Time: 9/9/2024 2:53:01 PM
+Receipt Number: 1941, Cage Operator: sujan, Time: 9/9/2024 2:58:48 PM
+Receipt Number: 6322, Cage Operator: sujan, Time: 9/9/2024 3:00:31 PM
+Receipt Number: 1712, Cage Operator: sujanps, Time: 9/9/2024 3:03:15 PM
+Receipt Number: 9010, Cage Operator: sujn, Time: 9/9/2024 3:07:22 PM
+Receipt Number: 2437, Cage Operator: sujanps, Time: 9/9/2024 3:15:10 PM
+Receipt Number: 7633, Cage Operator: sujanps, Time: 9/9/2024 3:17:13 PM
+Receipt Number: 5123, Cage Operator: sujanps, Time: 9/9/2024 4:16:35 PM
+Receipt Number: 2164, Cage Operator: sjjh, Time: 9/9/2024 4:18:59 PM
+Receipt Number: 7537, Cage Operator: sjha, Time: 9/9/2024 4:22:31 PM
+Receipt Number: 1280, Cage Operator: Sujapskha, Time: 9/9/2024 4:31:07 PM
+Receipt Number: 5518, Cage Operator: asjkhjs, Time: 9/9/2024 4:39:03 PM
+Receipt Number: 7970, Cage Operator: asjdgj, Time: 9/9/2024 5:11:23 PM
+Receipt Number: 2481, Cage Operator: shjs, Time: 9/9/2024 5:24:00 PM
+Receipt Number: 6023, Cage Operator: sujanps, Time: 9/9/2024 5:30:55 PM
+Receipt Number: 7811, Cage Operator: Sujaplsk, Time: 9/9/2024 5:36:03 PM
+Receipt Number: 2127, Cage Operator: Riya, Time: 9/9/2024 5:37:20 PM
+Receipt Number: 8886, Cage Operator: Jeff, Time: 9/9/2024 5:54:44 PM
+Receipt Number: 7916, Cage Operator: daniel, Time: 9/9/2024 6:02:22 PM
+Receipt Number: 7911, Cage Operator: ghftrd, Time: 9/9/2024 9:26:07 PM
+Receipt Number: 6669, Cage Operator: syagh, Time: 9/9/2024 9:29:06 PM
+Receipt Number: 1835, Cage Operator: Anil, Time: 9/9/2024 9:30:39 PM
+Receipt Number: 3344, Cage Operator: daniel, Time: 9/10/2024 9:14:51 AM
+Receipt Number: 1648, Cage Operator: jksasa, Time: 9/10/2024 9:20:42 AM
+Receipt Number: 2218, Cage Operator: anil, Time: 9/11/2024 9:36:11 AM
+Receipt Number: 5128, Cage Operator: anil, Time: 9/11/2024 11:40:26 AM
+Receipt Number: 5722, Cage Operator: sdsfsfffno, Time: 9/11/2024 3:49:50 PM
+Receipt Number: 8158, Cage Operator: tryeys, Time: 9/12/2024 9:58:41 AM
+Receipt Number: 7905, Cage Operator: uiehk, Time: 9/12/2024 3:01:57 PM
+Receipt Number: 9611, Cage Operator: sjkdh, Time: 9/12/2024 3:24:00 PM
+Receipt Number: 6490, Cage Operator: sdjk, Time: 9/12/2024 3:26:41 PM
+Receipt Number: 6579, Cage Operator: jhgdjh, Time: 9/12/2024 5:27:36 PM
+Receipt Number: 8704, Cage Operator: sds, Time: 9/12/2024 5:47:05 PM
+Receipt Number: 8075, Cage Operator: sujajg, Time: 9/12/2024 11:28:12 PM
+Receipt Number: 1531, Cage Operator: sfdgs, Time: 9/12/2024 11:35:13 PM
+Receipt Number: 7694, Cage Operator: ashik, Time: 9/13/2024 9:10:11 AM
+Receipt Number: 2288, Cage Operator: daniel, Time: 9/13/2024 10:59:31 AM
+Receipt Number: 9199, Cage Operator: uihs, Time: 9/13/2024 3:18:47 PM
+Receipt Number: 3944, Cage Operator: chaithra , Time: 9/13/2024 3:24:07 PM
+Receipt Number: 3440, Cage Operator: ANil, Time: 9/16/2024 12:08:40 PM
+Receipt Number: 7413, Cage Operator: anil, Time: 10/2/2024 5:06:04 PM
+Receipt Number: 2564, Cage Operator: anil, Time: 10/2/2024 5:18:46 PM
+Receipt Number: 1571, Cage Operator: anil, Time: 10/2/2024 5:32:28 PM

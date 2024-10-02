@@ -1,0 +1,38 @@
+.showpopcss {
+  display: block;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 800px;
+  background-color: white;
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2);
+  border: 2px solid #ccc;
+  z-index: 1000;
+  text-align: center;
+  overflow: hidden; 
+}
+
+.showpopcss img {
+  max-width: 100%;
+  height: auto;
+  border: 2px solid black;
+  border-radius: 5px;
+  padding: 5px;
+  margin-bottom: 20px; 
+}
+
+.popup-text {
+  font-size: 24px; 
+  font-weight: bold; 
+  color: #333;
+  border-top: 2px solid #ccc; 
+  padding-top: 10px;
+  margin-top: 10px;
+}
+
+.dontshowpopcss {
+  display: none;
+}

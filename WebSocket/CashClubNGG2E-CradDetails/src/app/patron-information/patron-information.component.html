@@ -1,0 +1,180 @@
+<div class="container">
+    <!-- <div class="row">
+        <div class="col-3 gy-4">
+            <span class="cc-heading2">PATRON INFORMATION</span>
+        </div>
+    </div> -->
+
+    <form (ngSubmit)="onConfirm(patronInformation)" #patronInformation="ngForm" style="margin-top: 30px;">
+        <div class="row" style="margin-top: 15px;">
+
+            <div class="col-md-3 gy-3 form-group">
+                <cc-textbox type="text" class="textBoxEnter" name="txtfirstName" placeholder="First Name"
+                    [(ngModel)]="firstName"  [disabled]=isControlDisabled  required/>
+            </div>
+
+            <div class="col-md-3 gy-3 form-group">
+                <cc-textbox type="text" class="textBoxEnter" id="txtmiddleName" name="txtmiddleName"
+                    placeholder="Middle Name" [(ngModel)]="middleName"
+                    [disabled]=isControlDisabled />
+            </div>
+
+            <div class="col-md-6 gy-3 form-group">
+                <cc-textbox type="text" name="txtlastName" placeholder="Last Name" [(ngModel)]="lastName"
+                    [disabled]=isControlDisabled required/>
+            </div>
+
+        </div>
+
+        <div class="row" style="margin-top: 15px;">
+            <div class="col-3 col-md-3 gy-3 form-group">
+                <cc-dropdown [dropdownValues]="idCountries" bindLabel="PrintableName" bindValue="Code" name="idCountry"
+                    placeholder="Country" (valueSelected)="onChangeCountry(Country)" [(ngModel)]="Country" required
+                    [disabled]=isControlDisabled></cc-dropdown>
+            </div>
+
+            <div class="col-3 col-md-3 gy-3 form-group">
+                <cc-textbox type="text" id="postalCode" name="Postal Code" placeholder="Postal Code" maxlength="25"
+                    [(ngModel)]="postalCode" (valueEntered)="onPostalCodeEntered($event)"
+                    [disabled]=isControlDisabled />
+            </div>
+
+            <div class="col-3 col-md-3 gy-3 form-group">
+                <cc-textbox type="text" id="billingPostalCode" name="billingPostalCode" placeholder="Billing Postal Code"
+                    maxlength="25" [(ngModel)]="billingZipCOde" [disabled]=isControlDisabled />
+                <cc-control-toggle-switch toggleSwitchLabel="Same" name="same" id="same"
+                    [(ngModel)]="sameBillingZipCode" (change)="onBillingToggle($event)"
+                    [disabled]=isControlDisabled></cc-control-toggle-switch>
+            </div>
+
+            <div class="col-3 col-md-3 gy-3 form-group">
+                <cc-dropdown [dropdownValues]="idStates" bindLabel="Name" bindValue="Code" name="idState"
+                    placeholder="State/Prov." (valueSelected)="onChangeState($event)" [(ngModel)]="State"
+                    [disabled]=isControlDisabled></cc-dropdown>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-3 col-md-3 gy-3 form-group">
+                <cc-textbox type="text" name="patronCity" placeholder="City" [(ngModel)]='City'
+                    [disabled]=isControlDisabled />
+            </div>
+            <div class="col-md-6 col-md-6 gy-3 form-group">
+                <cc-textbox type="text" name="patronStreet" placeholder="Street" [(ngModel)]="Street"
+                    [disabled]=isControlDisabled />
+            </div>
+            <div class="col-3 col-md-3 gy-3 form-group">
+                <cc-textbox type="text" name="patronAptSuite" placeholder="Apt/Suite" [(ngModel)]="AptSte"
+                    [disabled]=isControlDisabled />
+            </div>
+        </div>
+
+        <div class="row" style="margin-top: 15px;">
+            <div class="col-3 col-md-3 gy-3 form-group">
+                <cc-textbox type="tel" name="patronPhoneNumber" placeholder="Phone Number" [(ngModel)]="phoneNumber"
+                    maxlength="12" [disabled]=isControlDisabled required/>
+            </div>
+            <div class="col-md-3 gy-3 form-group">
+                <cc-textbox type="text" name="patronEmail" placeholder="Email Address" [(ngModel)]="emailAddress"
+                    [disabled]=isControlDisabled required/>
+            </div>
+            <div class="col-3 col-md-3 gy-3 form-group">
+                <cc-textbox type="text" name="patronOccupation" placeholder="Occupation" [(ngModel)]="Occupation"
+                    [disabled]=isControlDisabled required/>
+            </div>
+            <div class="col-3 col-md-3 gy-3 form-group">
+                <cc-textbox type="disabledtext" name="patronSSN" placeholder="SSN" capture
+                    (captureClicked)="onSSNCapture()" [(ngModel)]="SSN" [disabled]=isControlDisabled />
+                    <div [ngClass]="showpopupSSN ? 'showpopcss' : 'dontshowpopcss'">
+                        <div class="image-container">
+                        <img src=".../../../../assets/images/ingenico-screens/ssn.png" alt="image"/>
+                        </div>
+                        <div class="popup-text">{{ buttonLabelSSN }}</div>
+                      </div>
+            </div>
+        </div>
+
+        <div class="row" style="margin-top: 15px;">
+            <div class="col-3 col-md-3 gy-3 form-group">
+                <cc-textbox type="text" name="patronManualPlayerCard" placeholder="Player Card No."
+                    [(ngModel)]="manualPlayerCard" [disabled]=isControlDisabled />
+            </div>
+            <div class="col-md-6 gy-3 form-group">
+                <cc-textbox type="disabledtext" name="patronSwipedPlayerCard" placeholder="Capture Player Card No."
+                    [(ngModel)]="swipedPlayerCard" qrCode dipCard [disabled]=isControlDisabled />
+            </div>
+            <div class="col-3 col-md-3 gy-3 form-group">
+                <cc-textbox type="disabledtext" name="patronLanguage" placeholder="Language" capture  (captureClicked)="onLanguageCapture()"
+                    [(ngModel)]="Language" [disabled]="isControlDisabled"/>
+                    <div [ngClass]="showpopupLanguage ? 'showpopcss' : 'dontshowpopcss'">
+                        <div class="image-container">
+                        <img src=".../../../../assets/images/ingenico-screens/language-selection.png" alt="image"/>
+                        </div>
+                        <div class="popup-text">{{ buttonLabelLanguage }}</div>
+                      </div>
+            </div>
+
+              </div>
+        <div class="row" style="margin-top: 35px;">
+            <div class="col-6 gy-3" style="padding-top: 20px;">
+                <label for="status" class="cc-statuslabel">Status:</label>
+                <label for="hostInfo" class="cc-statuslabel-active">Host Info</label>
+                <label for="paymentTerminal" class="cc-statuslabel-active">Payment Terminal</label>
+                <!-- <label for="scanner" class="cc-statuslabel-warning">Scanner</label>
+                <label for="printer" class="cc-statuslabel-warning">Printer</label> -->
+                <label for="scanner" class="cc-statuslabel-active">Scanner</label>
+                <label for="printer" class="cc-statuslabel-active">Printer</label>
+            </div>
+                <div class="col-6 gy-3">
+                    <button (click)="onConfirm(patronInformation)" class="cc-buttonprimary float-end" type="Submit"
+                        [disabled]="!patronInformation.valid">Confirm</button>
+                </div>
+                <div [ngClass]="showpopups ? 'showpopcss' : 'dontshowpopcss'">
+                    <div class="image-container">
+
+                    <img src="../../assets/images/ingenico-screens/insert-card.png" alt="image"/>
+                    </div>
+                    <div class="popup-text">{{ buttonLabel }}</div>
+
+                  </div>
+        </div>
+
+    </form>
+
+    <div *ngIf="noCarddata" class="card-popup white-background">
+        <div class="popup-text">
+          <h3>{{ popupContent }}</h3>
+        </div>
+        <div class="popup-body">
+          <div class="button-group">
+            <button class="no-btn" (click)="handleTransactionNo()">No</button>
+            <button class="yes-btn" (click)="handleTransactionSuccess()">Yes</button>
+          </div>
+          <!-- Emoji container for Yes/No responses -->
+          <div class="emoji-container">
+            <img *ngIf="showSadEmoji" src="../../assets/images/success.gif" alt="Sad Emoji" />
+            <img *ngIf="showHappyEmoji" src="../../assets/images/success.gif" alt="Happy Emoji" />
+          </div>
+        </div>
+        <div *ngIf="transactionSuccessful" class="success-message">
+          Transaction Closed!
+        </div>
+      </div>
+      <div *ngIf="noSSNdata" class="card-popup white-background">
+        <div class="popup-text">
+          <h3>{{ popupContents }}</h3>
+        </div>
+        <div class="popup-body">
+          <div class="button-group">
+            <button class="no-btn" (click)="handleTransactionNoSSN()">No</button>
+            <button class="yes-btn" (click)="handleTransactionSuccessSSN()">Yes</button>
+          </div>
+          <div class="emoji-container">
+            <img *ngIf="showSadEmoji" src="../../assets/images/success.gif" alt="Sad Emoji" />
+          </div>
+        </div>
+        <div *ngIf="transactionSuccessful" class="success-message">
+            Continue the Transaction without SSN!
+        </div>
+      </div>
+    </div>

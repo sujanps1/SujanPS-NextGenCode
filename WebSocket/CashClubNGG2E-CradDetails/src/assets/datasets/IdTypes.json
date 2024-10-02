@@ -1,0 +1,56 @@
+[
+  {
+    "IdentificationTypeId": 1,
+    "Code": "DL",
+    "Description": "Driver License",
+    "IsPrimaryIdType": 1
+  },
+  {
+    "IdentificationTypeId": 2,
+    "Code": "GD",
+    "Description": "Government-Issued ID Card",
+    "IsPrimaryIdType": 1
+  },
+  {
+    "IdentificationTypeId": 3,
+    "Code": "UD",
+    "Description": "US Military ID",
+    "IsPrimaryIdType": 1
+  },
+  {
+    "IdentificationTypeId": 4,
+    "Code": "PP",
+    "Description": "Passport",
+    "IsPrimaryIdType": 1
+  },
+  {
+    "IdentificationTypeId": 6,
+    "Code": "SD",
+    "Description": "State ID",
+    "IsPrimaryIdType": 1
+  },
+  {
+    "IdentificationTypeId": 7,
+    "Code": "TD",
+    "Description": "Tribal ID",
+    "IsPrimaryIdType": 1
+  },
+  {
+    "IdentificationTypeId": 8,
+    "Code": "MI",
+    "Description": "Matricula ID",
+    "IsPrimaryIdType": 0
+  },
+  {
+    "IdentificationTypeId": 9,
+    "Code": "NG",
+    "Description": "Naturalization/Green Card",
+    "IsPrimaryIdType": 0
+  },
+  {
+    "IdentificationTypeId": 10,
+    "Code": "UN",
+    "Description": "Undefined",
+    "IsPrimaryIdType": 0
+  }
+]

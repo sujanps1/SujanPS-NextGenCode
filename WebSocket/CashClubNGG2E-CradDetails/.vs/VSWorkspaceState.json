@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.angular",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\header",
+    "\\src\\app\\patron-information"
+  ],
+  "SelectedNode": "\\src\\app\\header\\header.component.ts",
+  "PreviewInSolutionExplorer": false
+}

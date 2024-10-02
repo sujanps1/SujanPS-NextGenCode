@@ -1,0 +1,364 @@
+{
+    "State": [
+        {
+            "Code": "AL",
+            "CountryCode": "US",
+            "Name": "Alabama"
+        },
+        {
+            "Code": "AK",
+            "CountryCode": "US",
+            "Name": "Alaska"
+        },
+        {
+            "Code": "AS",
+            "CountryCode": "US",
+            "Name": "American Samoa"
+        },
+        {
+            "Code": "AZ",
+            "CountryCode": "US",
+            "Name": "Arizona"
+        },
+        {
+            "Code": "AR",
+            "CountryCode": "US",
+            "Name": "Arkansas"
+        },
+        {
+            "Code": "CA",
+            "CountryCode": "US",
+            "Name": "California"
+        },
+        {
+            "Code": "CO",
+            "CountryCode": "US",
+            "Name": "Colorado"
+        },
+        {
+            "Code": "CT",
+            "CountryCode": "US",
+            "Name": "Connecticut"
+        },
+        {
+            "Code": "DE",
+            "CountryCode": "US",
+            "Name": "Delaware"
+        },
+        {
+            "Code": "DC",
+            "CountryCode": "US",
+            "Name": "District of Columbia"
+        },
+        {
+            "Code": "FM",
+            "CountryCode": "US",
+            "Name": "Federated States of Micronesia"
+        },
+        {
+            "Code": "FL",
+            "CountryCode": "US",
+            "Name": "Florida"
+        },
+        {
+            "Code": "GA",
+            "CountryCode": "US",
+            "Name": "Georgia"
+        },
+        {
+            "Code": "GU",
+            "CountryCode": "US",
+            "Name": "Guam"
+        },
+        {
+            "Code": "HI",
+            "CountryCode": "US",
+            "Name": "Hawaii"
+        },
+        {
+            "Code": "ID",
+            "CountryCode": "US",
+            "Name": "Idaho"
+        },
+        {
+            "Code": "IL",
+            "CountryCode": "US",
+            "Name": "Illinois"
+        },
+        {
+            "Code": "IN",
+            "CountryCode": "US",
+            "Name": "Indiana"
+        },
+        {
+            "Code": "IA",
+            "CountryCode": "US",
+            "Name": "Iowa"
+        },
+        {
+            "Code": "KS",
+            "CountryCode": "US",
+            "Name": "Kansas"
+        },
+        {
+            "Code": "KY",
+            "CountryCode": "US",
+            "Name": "Kentucky"
+        },
+        {
+            "Code": "LA",
+            "CountryCode": "US",
+            "Name": "Louisiana"
+        },
+        {
+            "Code": "ME",
+            "CountryCode": "US",
+            "Name": "Maine"
+        },
+        {
+            "Code": "MH",
+            "CountryCode": "US",
+            "Name": "Marshall Islands"
+        },
+        {
+            "Code": "MD",
+            "CountryCode": "US",
+            "Name": "Maryland"
+        },
+        {
+            "Code": "MA",
+            "CountryCode": "US",
+            "Name": "Massachusetts"
+        },
+        {
+            "Code": "MI",
+            "CountryCode": "US",
+            "Name": "Michigan"
+        },
+        {
+            "Code": "MN",
+            "CountryCode": "US",
+            "Name": "Minnesota"
+        },
+        {
+            "Code": "MS",
+            "CountryCode": "US",
+            "Name": "Mississippi"
+        },
+        {
+            "Code": "MO",
+            "CountryCode": "US",
+            "Name": "Missouri"
+        },
+        {
+            "Code": "MT",
+            "CountryCode": "US",
+            "Name": "Montana"
+        },
+        {
+            "Code": "NE",
+            "CountryCode": "US",
+            "Name": "Nebraska"
+        },
+        {
+            "Code": "NV",
+            "CountryCode": "US",
+            "Name": "Nevada"
+        },
+        {
+            "Code": "NH",
+            "CountryCode": "US",
+            "Name": "New Hampshire"
+        },
+        {
+            "Code": "NJ",
+            "CountryCode": "US",
+            "Name": "New Jersey"
+        },
+        {
+            "Code": "NM",
+            "CountryCode": "US",
+            "Name": "New Mexico"
+        },
+        {
+            "Code": "NY",
+            "CountryCode": "US",
+            "Name": "New York"
+        },
+        {
+            "Code": "NC",
+            "CountryCode": "US",
+            "Name": "North Carolina"
+        },
+        {
+            "Code": "ND",
+            "CountryCode": "US",
+            "Name": "North Dakota"
+        },
+        {
+            "Code": "MP",
+            "CountryCode": "US",
+            "Name": "Northern Mariana Islands"
+        },
+        {
+            "Code": "OH",
+            "CountryCode": "US",
+            "Name": "Ohio"
+        },
+        {
+            "Code": "OK",
+            "CountryCode": "US",
+            "Name": "Oklahoma"
+        },
+        {
+            "Code": "OR",
+            "CountryCode": "US",
+            "Name": "Oregon"
+        },
+        {
+            "Code": "PW",
+            "CountryCode": "US",
+            "Name": "Palau"
+        },
+        {
+            "Code": "PA",
+            "CountryCode": "US",
+            "Name": "Pennsylvania"
+        },
+        {
+            "Code": "PR",
+            "CountryCode": "US",
+            "Name": "Puerto Rico"
+        },
+        {
+            "Code": "RI",
+            "CountryCode": "US",
+            "Name": "Rhode Island"
+        },
+        {
+            "Code": "SC",
+            "CountryCode": "US",
+            "Name": "South Carolina"
+        },
+        {
+            "Code": "SD",
+            "CountryCode": "US",
+            "Name": "South Dakota"
+        },
+        {
+            "Code": "TN",
+            "CountryCode": "US",
+            "Name": "Tennessee"
+        },
+        {
+            "Code": "TX",
+            "CountryCode": "US",
+            "Name": "Texas"
+        },
+        {
+            "Code": "UT",
+            "CountryCode": "US",
+            "Name": "Utah"
+        },
+        {
+            "Code": "VT",
+            "CountryCode": "US",
+            "Name": "Vermont"
+        },
+        {
+            "Code": "VI",
+            "CountryCode": "US",
+            "Name": "Virgin Islands"
+        },
+        {
+            "Code": "VA",
+            "CountryCode": "US",
+            "Name": "Virginia"
+        },
+        {
+            "Code": "WA",
+            "CountryCode": "US",
+            "Name": "Washington"
+        },
+        {
+            "Code": "WV",
+            "CountryCode": "US",
+            "Name": "West Virginia"
+        },
+        {
+            "Code": "WI",
+            "CountryCode": "US",
+            "Name": "Wisconsin"
+        },
+        {
+            "Code": "WY",
+            "CountryCode": "US",
+            "Name": "Wyoming"
+        },
+        {
+            "Code": "AB",
+            "CountryCode": "CA",
+            "Name": "Alberta"
+        },
+        {
+            "Code": "BC",
+            "CountryCode": "CA",
+            "Name": "British Columbia"
+        },
+        {
+            "Code": "MB",
+            "CountryCode": "CA",
+            "Name": "Manitoba"
+        },
+        {
+            "Code": "NB",
+            "CountryCode": "CA",
+            "Name": "New Brunwick"
+        },
+        {
+            "Code": "NL",
+            "CountryCode": "CA",
+            "Name": "Newfoundland and Labrador"
+        },
+        {
+            "Code": "NS",
+            "CountryCode": "CA",
+            "Name": "Nova Scotia"
+        },
+        {
+            "Code": "NT",
+            "CountryCode": "CA",
+            "Name": "Northwest Territories"
+        },
+        {
+            "Code": "NU",
+            "CountryCode": "CA",
+            "Name": "Nunavut"
+        },
+        {
+            "Code": "ON",
+            "CountryCode": "CA",
+            "Name": "Ontario"
+        },
+        {
+            "Code": "PE",
+            "CountryCode": "CA",
+            "Name": "Prince Edward Island"
+        },
+        {
+            "Code": "QC",
+            "CountryCode": "CA",
+            "Name": "Quebec"
+        },
+        {
+            "Code": "SK",
+            "CountryCode": "CA",
+            "Name": "Saskatchewan"
+        },
+        {
+            "Code": "YT",
+            "CountryCode": "CA",
+            "Name": "Yukon"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+<div class="container">
+    <div class="row">
+        <div class="col-3 gy-4">
+            <label for="patronDetails" class="cc-heading2"
+                [ngClass]="isLabelEnabled?'cc-heading2':'cc-heading2-disabled'">PATRON DETAILS</label>
+        </div>
+        <div class="col-9 gy-4" style="padding-top: 5px;">
+            <span class="cc-heading3">{{transactionStatus}}</span>
+        </div>
+    </div>
+    <form (ngSubmit)="onSearch(patronSearch)" #patronSearch="ngForm">
+        <div class="row" style="margin-top: 15px;">
+            <div class="col-3 gy-3 form-group">
+                <cc-dropdown [dropdownValues]="idTypes" bindLabel="Description" bindValue="Code" name="idType"
+                    placeholder="I.D.Type" [(ngModel)]="selectedIdType" (valueSelected)="onChangeIdType(selectedIdType)"
+                    required></cc-dropdown>
+            </div>
+            <div class="col-3 gy-3 form-group">
+                <cc-dropdown [dropdownValues]="idCountries" bindLabel="PrintableName" bindValue="Code" name="idCountry"
+                    placeholder="I.D.Country" (valueSelected)="onChangeCountry(selectedCountry)"
+                    [(ngModel)]="selectedCountry" required></cc-dropdown>
+            </div>
+            <div class="col-3 gy-3 form-group">
+                <cc-dropdown [dropdownValues]="idStates" bindLabel="Name" bindValue="Code" name="idState"
+                    placeholder="I.D.State/Prov." [disabled]=disableIdState [(ngModel)]="selectedState"
+                    [required]="selectedIdType==='DL'|| selectedIdType==='SD'"></cc-dropdown>
+            </div>
+            <div class="col-3 gy-3 form-group">
+                <cc-textbox type="text" id="idNumber" name="idNumber" placeholder="I.D.Number"
+                    [(ngModel)]="idCardNumber" maxlength="25" required uppercase></cc-textbox>
+            </div>
+        </div>
+        <div class="row" style="margin-top: 15px;">
+            <div class="col-3 gy-3 form-group">
+                <cc-textbox type="date" id="dateofbirth" name="dateofbirth" placeholder="Date of Birth" ngModel
+                    [(ngModel)]="dateofbirth" required></cc-textbox>
+            </div>
+            <div class="col-3 gy-3 form-group">
+                <cc-textbox type="date" id="idExpiration" name="idExpiration" placeholder="I.D.Expiration" ngModel
+                    [(ngModel)]="idexpiration" [disabled]=noIdExpiration [required]=!noIdExpiration></cc-textbox>
+                <div class="float-end">
+                    <cc-control-toggle-switch toggleSwitchLabel="No Expiration" name="noexpiration" id="noexpiration"
+                        [(ngModel)]="noIdExpiration" (change)="onNoExpiration($event)"></cc-control-toggle-switch>
+                </div>
+            </div>
+        </div>
+        <div class="float-end">
+            <button class="cc-buttonsecondary" type="submit" [disabled]="!patronSearch.valid"
+                id="search">Search</button>
+        </div>
+    </form>
+</div>

@@ -1,0 +1,24 @@
+<nav class="cc-navbar">
+    <img src="../assets/logo/CashClubHeaderLogo.svg" alt="CashClub Logo" class="img-responsive header-logo">
+    <!-- <label class="header-label" style="padding-left: 891px; padding-right: 29px;">Merchant: {{merchant}} </label>
+    <label class="header-label" style="padding-right: 29px;">Version: {{version}} </label>
+    <label class="header-label" >TID: {{tid}} </label> -->
+    <span class="div-header-label">
+        <label class="header-label">TID: {{tid}} </label>
+        <label class="header-label">Merchant: {{merchant}} </label>
+        <label class="header-label">Version: {{version}} </label>
+        <!-- <button class="cc-buttonsecondary" (click)="onSendCommand('deviceCommandSend')">SendCommand</button> -->
+
+        <!-- <select #cricket (change)="onSelected($event)">
+            <option value="default">----</option>
+            <option *ngFor="let code of deviceCommand" [value]="code">
+                {{code}}
+            </option>
+        </select> -->
+    </span>
+    <button *ngIf="showCancel else showUser" class="cc-buttontertiary cc-headercancelbtn" (click)="onCancel()"
+        type="button">Cancel</button>
+    <ng-template #showUser>
+        <span class="cc-usericon cc-userlabel">AP</span>
+    </ng-template>
+</nav>

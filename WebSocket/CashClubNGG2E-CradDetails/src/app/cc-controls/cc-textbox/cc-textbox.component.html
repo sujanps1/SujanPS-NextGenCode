@@ -1,0 +1,52 @@
+<div class="input-block" style="margin-bottom: 0;" [ngSwitch]="type">
+
+  <input *ngSwitchCase="'text'" type="text" name={{name}} id={{id}} maxlength={{maxlength}} required spellcheck="false"
+    [disabled]="isDisabled" [(ngModel)]="value" (input)="onChange($event.target.value)" class="form-control"
+    autocomplete="off">
+
+  <input *ngSwitchCase="'password'" type="password" name={{name}} id={{id}} maxlength={{maxlength}} required
+    spellcheck="false" [disabled]="isDisabled" [(ngModel)]="value" (input)="onChange($event.target.value)"
+    class="form-control" autocomplete="off">
+
+  <input *ngSwitchCase="'disabledtext'" type="text" name={{name}} id={{id}} required spellcheck="false" disabled
+    [(ngModel)]="value" (input)="onChange($event.target.value)" class="form-control" autocomplete="off">
+
+  <input *ngSwitchCase="'number'" type="text" name={{name}} id={{id}} required spellcheck="false"
+    [disabled]="isDisabled" [(ngModel)]="value" (input)="onChange($event.target.value)" class="form-control"
+    autocomplete="off" ccinputvalidation maxlength={{maxlength}}>
+
+  <input *ngSwitchCase="'currency'" type="tel" name={{name}} id={{id}} required spellcheck="false"
+    [disabled]="isDisabled" [(ngModel)]="value" (ngModelChange)="onChange($event)"
+    class="form-control form-section1-imput1" autocomplete="off" maxlength={{maxlength}} currencyMask
+    [options]="{ align: 'left'}">
+
+  <input *ngSwitchCase="'date'" type={{behaviorType}} name={{name}} id={{id}} required spellcheck="false"
+    (input)="onInput($event)" (ngModelChange)="onChange($event)" (focus)="onDateFocus($event)"
+    (blur)="onDateBlur($event)" class="form-control" [(ngModel)]="value" (change)="onChange($event)"
+    (focus)="onChange($event)" [disabled]="isDisabled" max="9999-12-31" autocomplete="off">
+
+  <input *ngSwitchCase="'tel'" type="tel" name={{name}} id={{id}} maxlength={{maxlength}} required spellcheck="false"
+    [disabled]="isDisabled" [(ngModel)]="value" (input)="formatPhoneNumber($event.target.value)" class="form-control"
+    autocomplete="off" ccinputvalidation>
+
+
+  <span class="cctextplaceholder" [ngClass]="{movecctextplaceholder: movePlaceholder === true}">{{placeholder}}</span>
+
+  
+  <button *ngIf="showCapture" class="capture-icon" (click)="onCapture()" type="button" 
+  [disabled]="isDisabled" name="capture" title="Capture">
+  <!-- <div [ngClass]="showpopup ? 'showpopcss' : 'dontshowpopcss'">
+    <img src="../../../assets/images/ingenico-screens/language-selection.png" alt="image"/>
+    <div class="popup-text">{{ buttonLabel }}</div>
+  </div> -->
+</button>
+
+
+
+  <button *ngIf="showQRCode" class="qrCode-icon" (click)="onCapture($event)" type="button" [disabled]="isDisabled"
+    name="qrCode" title="QR Code"></button>
+
+  <button *ngIf="showDipCard" class="dipCard-icon" (click)="onCapture($event)" type="button" [disabled]="isDisabled"
+    name="qrCode" title="Dip Card"></button>
+
+</div>

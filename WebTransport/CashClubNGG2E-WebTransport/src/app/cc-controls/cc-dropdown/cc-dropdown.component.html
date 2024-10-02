@@ -1,0 +1,8 @@
+<div class="ngselect-block">
+        <ng-select class="custom" [items]="dropdownValues" bindLabel="{{bindLabel}}" bindValue="{{bindValue}}"
+                [(ngModel)]="value" [disabled]="isDisabled" (change)="onChange(selectedValue)" (focus)="onFocus()"
+                (blur)="onBlur()" name="{{name}}" required></ng-select>
+
+        <span class="cc-placeholder"
+                [ngClass]="{moveplaceholder: valueExists === true || dropDownFocused === true}">{{placeholder}}</span>
+</div>

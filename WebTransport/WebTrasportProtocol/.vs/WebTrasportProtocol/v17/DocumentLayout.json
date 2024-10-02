@@ -1,0 +1,329 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sujan.ps\\OneDrive - Everi Payments, Inc\\Desktop\\SujanPS-Tasks\\WebTransport\\WebTrasportProtocol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC2CF24-69D7-4624-A96F-13894CC08560}|WebTrasportProtocol\\WebTrasportProtocol.csproj|c:\\users\\sujan.ps\\onedrive - everi payments, inc\\desktop\\sujanps-tasks\\webtransport\\webtrasportprotocol\\webtrasportprotocol\\endpointlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC2CF24-69D7-4624-A96F-13894CC08560}|WebTrasportProtocol\\WebTrasportProtocol.csproj|solutionrelative:webtrasportprotocol\\endpointlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC2CF24-69D7-4624-A96F-13894CC08560}|WebTrasportProtocol\\WebTrasportProtocol.csproj|c:\\users\\sujan.ps\\onedrive - everi payments, inc\\desktop\\sujanps-tasks\\webtransport\\webtrasportprotocol\\webtrasportprotocol\\endpointreceipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC2CF24-69D7-4624-A96F-13894CC08560}|WebTrasportProtocol\\WebTrasportProtocol.csproj|solutionrelative:webtrasportprotocol\\endpointreceipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC2CF24-69D7-4624-A96F-13894CC08560}|WebTrasportProtocol\\WebTrasportProtocol.csproj|c:\\users\\sujan.ps\\onedrive - everi payments, inc\\desktop\\sujanps-tasks\\webtransport\\webtrasportprotocol\\webtrasportprotocol\\endpointssn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC2CF24-69D7-4624-A96F-13894CC08560}|WebTrasportProtocol\\WebTrasportProtocol.csproj|solutionrelative:webtrasportprotocol\\endpointssn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC2CF24-69D7-4624-A96F-13894CC08560}|WebTrasportProtocol\\WebTrasportProtocol.csproj|c:\\users\\sujan.ps\\onedrive - everi payments, inc\\desktop\\sujanps-tasks\\webtransport\\webtrasportprotocol\\webtrasportprotocol\\requestinfocaps.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC2CF24-69D7-4624-A96F-13894CC08560}|WebTrasportProtocol\\WebTrasportProtocol.csproj|solutionrelative:webtrasportprotocol\\requestinfocaps.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC2CF24-69D7-4624-A96F-13894CC08560}|WebTrasportProtocol\\WebTrasportProtocol.csproj|c:\\users\\sujan.ps\\onedrive - everi payments, inc\\desktop\\sujanps-tasks\\webtransport\\webtrasportprotocol\\webtrasportprotocol\\endpointlanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC2CF24-69D7-4624-A96F-13894CC08560}|WebTrasportProtocol\\WebTrasportProtocol.csproj|solutionrelative:webtrasportprotocol\\endpointlanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC2CF24-69D7-4624-A96F-13894CC08560}|WebTrasportProtocol\\WebTrasportProtocol.csproj|c:\\users\\sujan.ps\\onedrive - everi payments, inc\\desktop\\sujanps-tasks\\webtransport\\webtrasportprotocol\\webtrasportprotocol\\getresponseasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC2CF24-69D7-4624-A96F-13894CC08560}|WebTrasportProtocol\\WebTrasportProtocol.csproj|solutionrelative:webtrasportprotocol\\getresponseasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC2CF24-69D7-4624-A96F-13894CC08560}|WebTrasportProtocol\\WebTrasportProtocol.csproj|c:\\users\\sujan.ps\\onedrive - everi payments, inc\\desktop\\sujanps-tasks\\webtransport\\webtrasportprotocol\\webtrasportprotocol\\requestptron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC2CF24-69D7-4624-A96F-13894CC08560}|WebTrasportProtocol\\WebTrasportProtocol.csproj|solutionrelative:webtrasportprotocol\\requestptron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC2CF24-69D7-4624-A96F-13894CC08560}|WebTrasportProtocol\\WebTrasportProtocol.csproj|c:\\users\\sujan.ps\\onedrive - everi payments, inc\\desktop\\sujanps-tasks\\webtransport\\webtrasportprotocol\\webtrasportprotocol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC2CF24-69D7-4624-A96F-13894CC08560}|WebTrasportProtocol\\WebTrasportProtocol.csproj|solutionrelative:webtrasportprotocol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC2CF24-69D7-4624-A96F-13894CC08560}|WebTrasportProtocol\\WebTrasportProtocol.csproj|c:\\users\\sujan.ps\\onedrive - everi payments, inc\\desktop\\sujanps-tasks\\webtransport\\webtrasportprotocol\\webtrasportprotocol\\endpointconfirmamount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC2CF24-69D7-4624-A96F-13894CC08560}|WebTrasportProtocol\\WebTrasportProtocol.csproj|solutionrelative:webtrasportprotocol\\endpointconfirmamount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC2CF24-69D7-4624-A96F-13894CC08560}|WebTrasportProtocol\\WebTrasportProtocol.csproj|c:\\users\\sujan.ps\\onedrive - everi payments, inc\\desktop\\sujanps-tasks\\webtransport\\webtrasportprotocol\\webtrasportprotocol\\connectorclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC2CF24-69D7-4624-A96F-13894CC08560}|WebTrasportProtocol\\WebTrasportProtocol.csproj|solutionrelative:webtrasportprotocol\\connectorclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC2CF24-69D7-4624-A96F-13894CC08560}|WebTrasportProtocol\\WebTrasportProtocol.csproj|c:\\users\\sujan.ps\\onedrive - everi payments, inc\\desktop\\sujanps-tasks\\webtransport\\webtrasportprotocol\\webtrasportprotocol\\endpointsignature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC2CF24-69D7-4624-A96F-13894CC08560}|WebTrasportProtocol\\WebTrasportProtocol.csproj|solutionrelative:webtrasportprotocol\\endpointsignature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC2CF24-69D7-4624-A96F-13894CC08560}|WebTrasportProtocol\\WebTrasportProtocol.csproj|c:\\users\\sujan.ps\\onedrive - everi payments, inc\\desktop\\sujanps-tasks\\webtransport\\webtrasportprotocol\\webtrasportprotocol\\endpointcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC2CF24-69D7-4624-A96F-13894CC08560}|WebTrasportProtocol\\WebTrasportProtocol.csproj|solutionrelative:webtrasportprotocol\\endpointcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC2CF24-69D7-4624-A96F-13894CC08560}|WebTrasportProtocol\\WebTrasportProtocol.csproj|c:\\users\\sujan.ps\\onedrive - everi payments, inc\\desktop\\sujanps-tasks\\webtransport\\webtrasportprotocol\\webtrasportprotocol\\endpointamount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC2CF24-69D7-4624-A96F-13894CC08560}|WebTrasportProtocol\\WebTrasportProtocol.csproj|solutionrelative:webtrasportprotocol\\endpointamount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC2CF24-69D7-4624-A96F-13894CC08560}|WebTrasportProtocol\\WebTrasportProtocol.csproj|c:\\users\\sujan.ps\\onedrive - everi payments, inc\\desktop\\sujanps-tasks\\webtransport\\webtrasportprotocol\\webtrasportprotocol\\iapifunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC2CF24-69D7-4624-A96F-13894CC08560}|WebTrasportProtocol\\WebTrasportProtocol.csproj|solutionrelative:webtrasportprotocol\\iapifunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC2CF24-69D7-4624-A96F-13894CC08560}|WebTrasportProtocol\\WebTrasportProtocol.csproj|c:\\users\\sujan.ps\\onedrive - everi payments, inc\\desktop\\sujanps-tasks\\webtransport\\webtrasportprotocol\\webtrasportprotocol\\patronaddicaps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC2CF24-69D7-4624-A96F-13894CC08560}|WebTrasportProtocol\\WebTrasportProtocol.csproj|solutionrelative:webtrasportprotocol\\patronaddicaps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC2CF24-69D7-4624-A96F-13894CC08560}|WebTrasportProtocol\\WebTrasportProtocol.csproj|c:\\users\\sujan.ps\\onedrive - everi payments, inc\\desktop\\sujanps-tasks\\webtransport\\webtrasportprotocol\\webtrasportprotocol\\patroninfocaps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC2CF24-69D7-4624-A96F-13894CC08560}|WebTrasportProtocol\\WebTrasportProtocol.csproj|solutionrelative:webtrasportprotocol\\patroninfocaps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC2CF24-69D7-4624-A96F-13894CC08560}|WebTrasportProtocol\\WebTrasportProtocol.csproj|c:\\users\\sujan.ps\\onedrive - everi payments, inc\\desktop\\sujanps-tasks\\webtransport\\webtrasportprotocol\\webtrasportprotocol\\number.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0FC2CF24-69D7-4624-A96F-13894CC08560}|WebTrasportProtocol\\WebTrasportProtocol.csproj|solutionrelative:webtrasportprotocol\\number.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC2CF24-69D7-4624-A96F-13894CC08560}|WebTrasportProtocol\\WebTrasportProtocol.csproj|c:\\users\\sujan.ps\\onedrive - everi payments, inc\\desktop\\sujanps-tasks\\webtransport\\webtrasportprotocol\\webtrasportprotocol\\applicationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC2CF24-69D7-4624-A96F-13894CC08560}|WebTrasportProtocol\\WebTrasportProtocol.csproj|solutionrelative:webtrasportprotocol\\applicationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC2CF24-69D7-4624-A96F-13894CC08560}|WebTrasportProtocol\\WebTrasportProtocol.csproj|c:\\users\\sujan.ps\\onedrive - everi payments, inc\\desktop\\sujanps-tasks\\webtransport\\webtrasportprotocol\\webtrasportprotocol\\encryptdecrypt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC2CF24-69D7-4624-A96F-13894CC08560}|WebTrasportProtocol\\WebTrasportProtocol.csproj|solutionrelative:webtrasportprotocol\\encryptdecrypt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EndpointReceipt.cs",
+              "DocumentMoniker": "C:\\Users\\sujan.ps\\OneDrive - Everi Payments, Inc\\Desktop\\SujanPS-Tasks\\WebTransport\\WebTrasportProtocol\\WebTrasportProtocol\\EndpointReceipt.cs",
+              "RelativeDocumentMoniker": "WebTrasportProtocol\\EndpointReceipt.cs",
+              "ToolTip": "C:\\Users\\sujan.ps\\OneDrive - Everi Payments, Inc\\Desktop\\SujanPS-Tasks\\WebTransport\\WebTrasportProtocol\\WebTrasportProtocol\\EndpointReceipt.cs",
+              "RelativeToolTip": "WebTrasportProtocol\\EndpointReceipt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T05:27:37.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EndpointSSN.cs",
+              "DocumentMoniker": "C:\\Users\\sujan.ps\\OneDrive - Everi Payments, Inc\\Desktop\\SujanPS-Tasks\\WebTransport\\WebTrasportProtocol\\WebTrasportProtocol\\EndpointSSN.cs",
+              "RelativeDocumentMoniker": "WebTrasportProtocol\\EndpointSSN.cs",
+              "ToolTip": "C:\\Users\\sujan.ps\\OneDrive - Everi Payments, Inc\\Desktop\\SujanPS-Tasks\\WebTransport\\WebTrasportProtocol\\WebTrasportProtocol\\EndpointSSN.cs",
+              "RelativeToolTip": "WebTrasportProtocol\\EndpointSSN.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T05:27:26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RequestInfocaps.cs.cs",
+              "DocumentMoniker": "C:\\Users\\sujan.ps\\OneDrive - Everi Payments, Inc\\Desktop\\SujanPS-Tasks\\WebTransport\\WebTrasportProtocol\\WebTrasportProtocol\\RequestInfocaps.cs.cs",
+              "RelativeDocumentMoniker": "WebTrasportProtocol\\RequestInfocaps.cs.cs",
+              "ToolTip": "C:\\Users\\sujan.ps\\OneDrive - Everi Payments, Inc\\Desktop\\SujanPS-Tasks\\WebTransport\\WebTrasportProtocol\\WebTrasportProtocol\\RequestInfocaps.cs.cs",
+              "RelativeToolTip": "WebTrasportProtocol\\RequestInfocaps.cs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T05:56:18.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EndpointLogin.cs",
+              "DocumentMoniker": "C:\\Users\\sujan.ps\\OneDrive - Everi Payments, Inc\\Desktop\\SujanPS-Tasks\\WebTransport\\WebTrasportProtocol\\WebTrasportProtocol\\EndpointLogin.cs",
+              "RelativeDocumentMoniker": "WebTrasportProtocol\\EndpointLogin.cs",
+              "ToolTip": "C:\\Users\\sujan.ps\\OneDrive - Everi Payments, Inc\\Desktop\\SujanPS-Tasks\\WebTransport\\WebTrasportProtocol\\WebTrasportProtocol\\EndpointLogin.cs",
+              "RelativeToolTip": "WebTrasportProtocol\\EndpointLogin.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T05:27:38.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EndpointLanguage.cs",
+              "DocumentMoniker": "C:\\Users\\sujan.ps\\OneDrive - Everi Payments, Inc\\Desktop\\SujanPS-Tasks\\WebTransport\\WebTrasportProtocol\\WebTrasportProtocol\\EndpointLanguage.cs",
+              "RelativeDocumentMoniker": "WebTrasportProtocol\\EndpointLanguage.cs",
+              "ToolTip": "C:\\Users\\sujan.ps\\OneDrive - Everi Payments, Inc\\Desktop\\SujanPS-Tasks\\WebTransport\\WebTrasportProtocol\\WebTrasportProtocol\\EndpointLanguage.cs",
+              "RelativeToolTip": "WebTrasportProtocol\\EndpointLanguage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T05:27:39.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetResponseAsync.cs",
+              "DocumentMoniker": "C:\\Users\\sujan.ps\\OneDrive - Everi Payments, Inc\\Desktop\\SujanPS-Tasks\\WebTransport\\WebTrasportProtocol\\WebTrasportProtocol\\GetResponseAsync.cs",
+              "RelativeDocumentMoniker": "WebTrasportProtocol\\GetResponseAsync.cs",
+              "ToolTip": "C:\\Users\\sujan.ps\\OneDrive - Everi Payments, Inc\\Desktop\\SujanPS-Tasks\\WebTransport\\WebTrasportProtocol\\WebTrasportProtocol\\GetResponseAsync.cs",
+              "RelativeToolTip": "WebTrasportProtocol\\GetResponseAsync.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T05:27:24.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RequestPtron.cs",
+              "DocumentMoniker": "C:\\Users\\sujan.ps\\OneDrive - Everi Payments, Inc\\Desktop\\SujanPS-Tasks\\WebTransport\\WebTrasportProtocol\\WebTrasportProtocol\\RequestPtron.cs",
+              "RelativeDocumentMoniker": "WebTrasportProtocol\\RequestPtron.cs",
+              "ToolTip": "C:\\Users\\sujan.ps\\OneDrive - Everi Payments, Inc\\Desktop\\SujanPS-Tasks\\WebTransport\\WebTrasportProtocol\\WebTrasportProtocol\\RequestPtron.cs",
+              "RelativeToolTip": "WebTrasportProtocol\\RequestPtron.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T05:56:19.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sujan.ps\\OneDrive - Everi Payments, Inc\\Desktop\\SujanPS-Tasks\\WebTransport\\WebTrasportProtocol\\WebTrasportProtocol\\Program.cs",
+              "RelativeDocumentMoniker": "WebTrasportProtocol\\Program.cs",
+              "ToolTip": "C:\\Users\\sujan.ps\\OneDrive - Everi Payments, Inc\\Desktop\\SujanPS-Tasks\\WebTransport\\WebTrasportProtocol\\WebTrasportProtocol\\Program.cs",
+              "RelativeToolTip": "WebTrasportProtocol\\Program.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAAAIAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T09:09:39.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EndpointConfirmAmount.cs",
+              "DocumentMoniker": "C:\\Users\\sujan.ps\\OneDrive - Everi Payments, Inc\\Desktop\\SujanPS-Tasks\\WebTransport\\WebTrasportProtocol\\WebTrasportProtocol\\EndpointConfirmAmount.cs",
+              "RelativeDocumentMoniker": "WebTrasportProtocol\\EndpointConfirmAmount.cs",
+              "ToolTip": "C:\\Users\\sujan.ps\\OneDrive - Everi Payments, Inc\\Desktop\\SujanPS-Tasks\\WebTransport\\WebTrasportProtocol\\WebTrasportProtocol\\EndpointConfirmAmount.cs",
+              "RelativeToolTip": "WebTrasportProtocol\\EndpointConfirmAmount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T05:27:44.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConnectorClass.cs",
+              "DocumentMoniker": "C:\\Users\\sujan.ps\\OneDrive - Everi Payments, Inc\\Desktop\\SujanPS-Tasks\\WebTransport\\WebTrasportProtocol\\WebTrasportProtocol\\ConnectorClass.cs",
+              "RelativeDocumentMoniker": "WebTrasportProtocol\\ConnectorClass.cs",
+              "ToolTip": "C:\\Users\\sujan.ps\\OneDrive - Everi Payments, Inc\\Desktop\\SujanPS-Tasks\\WebTransport\\WebTrasportProtocol\\WebTrasportProtocol\\ConnectorClass.cs",
+              "RelativeToolTip": "WebTrasportProtocol\\ConnectorClass.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwCAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T05:27:57.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EndpointSignature.cs",
+              "DocumentMoniker": "C:\\Users\\sujan.ps\\OneDrive - Everi Payments, Inc\\Desktop\\SujanPS-Tasks\\WebTransport\\WebTrasportProtocol\\WebTrasportProtocol\\EndpointSignature.cs",
+              "RelativeDocumentMoniker": "WebTrasportProtocol\\EndpointSignature.cs",
+              "ToolTip": "C:\\Users\\sujan.ps\\OneDrive - Everi Payments, Inc\\Desktop\\SujanPS-Tasks\\WebTransport\\WebTrasportProtocol\\WebTrasportProtocol\\EndpointSignature.cs",
+              "RelativeToolTip": "WebTrasportProtocol\\EndpointSignature.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T05:27:34.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EndpointCard.cs",
+              "DocumentMoniker": "C:\\Users\\sujan.ps\\OneDrive - Everi Payments, Inc\\Desktop\\SujanPS-Tasks\\WebTransport\\WebTrasportProtocol\\WebTrasportProtocol\\EndpointCard.cs",
+              "RelativeDocumentMoniker": "WebTrasportProtocol\\EndpointCard.cs",
+              "ToolTip": "C:\\Users\\sujan.ps\\OneDrive - Everi Payments, Inc\\Desktop\\SujanPS-Tasks\\WebTransport\\WebTrasportProtocol\\WebTrasportProtocol\\EndpointCard.cs",
+              "RelativeToolTip": "WebTrasportProtocol\\EndpointCard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T06:03:27.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EndpointAmount.cs",
+              "DocumentMoniker": "C:\\Users\\sujan.ps\\OneDrive - Everi Payments, Inc\\Desktop\\SujanPS-Tasks\\WebTransport\\WebTrasportProtocol\\WebTrasportProtocol\\EndpointAmount.cs",
+              "RelativeDocumentMoniker": "WebTrasportProtocol\\EndpointAmount.cs",
+              "ToolTip": "C:\\Users\\sujan.ps\\OneDrive - Everi Payments, Inc\\Desktop\\SujanPS-Tasks\\WebTransport\\WebTrasportProtocol\\WebTrasportProtocol\\EndpointAmount.cs",
+              "RelativeToolTip": "WebTrasportProtocol\\EndpointAmount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T05:27:59.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IApiFunc.cs",
+              "DocumentMoniker": "C:\\Users\\sujan.ps\\OneDrive - Everi Payments, Inc\\Desktop\\SujanPS-Tasks\\WebTransport\\WebTrasportProtocol\\WebTrasportProtocol\\IApiFunc.cs",
+              "RelativeDocumentMoniker": "WebTrasportProtocol\\IApiFunc.cs",
+              "ToolTip": "C:\\Users\\sujan.ps\\OneDrive - Everi Payments, Inc\\Desktop\\SujanPS-Tasks\\WebTransport\\WebTrasportProtocol\\WebTrasportProtocol\\IApiFunc.cs",
+              "RelativeToolTip": "WebTrasportProtocol\\IApiFunc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T06:06:02.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PatronAddiCaps.cs",
+              "DocumentMoniker": "C:\\Users\\sujan.ps\\OneDrive - Everi Payments, Inc\\Desktop\\SujanPS-Tasks\\WebTransport\\WebTrasportProtocol\\WebTrasportProtocol\\PatronAddiCaps.cs",
+              "RelativeDocumentMoniker": "WebTrasportProtocol\\PatronAddiCaps.cs",
+              "ToolTip": "C:\\Users\\sujan.ps\\OneDrive - Everi Payments, Inc\\Desktop\\SujanPS-Tasks\\WebTransport\\WebTrasportProtocol\\WebTrasportProtocol\\PatronAddiCaps.cs",
+              "RelativeToolTip": "WebTrasportProtocol\\PatronAddiCaps.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T06:06:04.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Patroninfocaps.cs",
+              "DocumentMoniker": "C:\\Users\\sujan.ps\\OneDrive - Everi Payments, Inc\\Desktop\\SujanPS-Tasks\\WebTransport\\WebTrasportProtocol\\WebTrasportProtocol\\Patroninfocaps.cs",
+              "RelativeDocumentMoniker": "WebTrasportProtocol\\Patroninfocaps.cs",
+              "ToolTip": "C:\\Users\\sujan.ps\\OneDrive - Everi Payments, Inc\\Desktop\\SujanPS-Tasks\\WebTransport\\WebTrasportProtocol\\WebTrasportProtocol\\Patroninfocaps.cs",
+              "RelativeToolTip": "WebTrasportProtocol\\Patroninfocaps.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T05:56:05.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "number.txt",
+              "DocumentMoniker": "C:\\Users\\sujan.ps\\OneDrive - Everi Payments, Inc\\Desktop\\SujanPS-Tasks\\WebTransport\\WebTrasportProtocol\\WebTrasportProtocol\\number.txt",
+              "RelativeDocumentMoniker": "WebTrasportProtocol\\number.txt",
+              "ToolTip": "C:\\Users\\sujan.ps\\OneDrive - Everi Payments, Inc\\Desktop\\SujanPS-Tasks\\WebTransport\\WebTrasportProtocol\\WebTrasportProtocol\\number.txt",
+              "RelativeToolTip": "WebTrasportProtocol\\number.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-24T09:30:42.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\sujan.ps\\OneDrive - Everi Payments, Inc\\Desktop\\SujanPS-Tasks\\WebTransport\\WebTrasportProtocol\\WebTrasportProtocol\\ApplicationConfiguration.cs",
+              "RelativeDocumentMoniker": "WebTrasportProtocol\\ApplicationConfiguration.cs",
+              "ToolTip": "C:\\Users\\sujan.ps\\OneDrive - Everi Payments, Inc\\Desktop\\SujanPS-Tasks\\WebTransport\\WebTrasportProtocol\\WebTrasportProtocol\\ApplicationConfiguration.cs",
+              "RelativeToolTip": "WebTrasportProtocol\\ApplicationConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T06:03:38.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EncryptDecrypt.cs",
+              "DocumentMoniker": "C:\\Users\\sujan.ps\\OneDrive - Everi Payments, Inc\\Desktop\\SujanPS-Tasks\\WebTransport\\WebTrasportProtocol\\WebTrasportProtocol\\EncryptDecrypt.cs",
+              "RelativeDocumentMoniker": "WebTrasportProtocol\\EncryptDecrypt.cs",
+              "ToolTip": "C:\\Users\\sujan.ps\\OneDrive - Everi Payments, Inc\\Desktop\\SujanPS-Tasks\\WebTransport\\WebTrasportProtocol\\WebTrasportProtocol\\EncryptDecrypt.cs",
+              "RelativeToolTip": "WebTrasportProtocol\\EncryptDecrypt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T05:27:58.817Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

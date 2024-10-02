@@ -1,0 +1,142 @@
+<!-- <div class="container" [ngClass]="{ccenabled : isAmountEnabled}"> -->
+<div class="container cc-amountdetails">
+    <form (ngSubmit)="onConfirm(amountDetails)" #amountDetails="ngForm">
+        <div class="col-md-12 form-group">
+            <div class="row" style="text-align: center; margin-bottom: 39px;">
+                <label for="amountrequestheader" [ngClass]="isLabelEnabled?'cc-heading2':'cc-heading2-disabled'">AMOUNT
+                    REQUEST</label>
+                    <!-- <label for="amountrequestheader" [ngClass]="isLabelEnabled">AMOUNT
+                        REQUEST</label> -->
+            </div>
+
+            <!-- <div class="row" style="margin-bottom: 8px;">
+                    <cc-textbox type="number" id="cardLast4" name="cardLast4" placeholder="Card Last 4 Digits"
+                     maxlength="4"
+                        [disabled] = last4NotAvailable
+                        [required] = !last4NotAvailable
+                        [(ngModel)] = "cardlast4Number" ></cc-textbox>
+                    <div align="right">
+                        <cc-control-toggle-switch toggleSwitchLabel="Not Available" name="nolast4number"
+                         [(ngModel)]="last4NotAvailable" (change)="onNoLast4($event)"></cc-control-toggle-switch>
+                    </div>
+                </div> -->
+
+            <div class="row cc-amountdetailscontentbottom">
+                <cc-textbox type="currency" id="requestedamount" name="requestedamount" placeholder="Amount"
+                    [(ngModel)]="requestedAmount" capture (valueEntered)="onAmountChanged($event)"
+                    (captureClicked)="onAmountCapture()" required [disabled]=isAmountControlDisabled>
+                </cc-textbox>
+                <div [ngClass]="showpopup ? 'showpopcss' : 'dontshowpopcss'">
+                    <div class="image-container">
+                    <img src="../../assets/images/ingenico-screens/amount-entry.png" alt="image"/>
+                    </div>
+                    <div class="popup-text">{{ buttonLabel }}</div>
+                  </div>
+
+            </div>
+            <div class="row cc-amountdetailscontentbottom">
+                <cc-dropdown [dropdownValues]="payoutTypes" name="payoutType" placeholder="Payout Type"
+                    [(ngModel)]="payoutType" required class="higherdropdown" [disabled]=isControlDisabled></cc-dropdown>
+            </div>
+            <div class="row cc-amountdetailscontentbottom">
+                <cc-dropdown [dropdownValues]="feeTypes" name="feeType" placeholder="Fee Type" [(ngModel)]="feeType"
+                    (valueSelected)="onAmountChanged($event)" required [disabled]=isControlDisabled></cc-dropdown>
+            </div>
+            <div class="row cc-amountdetailscontentbottom">
+                <cc-textbox type="text" id="feeAmount" name="feeAmount" placeholder="Fee Amount" [(ngModel)]="feeAmount"
+                required [disabled]=isControlDisabled></cc-textbox>
+            </div>
+
+            <div class="row cc-amountdetailscontentbottom" style="text-align: center;">
+
+                <label for="totalamountheading" class="cc-fieldformlabel"
+                [ngClass]="isLabelEnabled ? (totalAmount != '$00.00' ? 'ccbluetext': 'cc-fieldformlabel') :'cc-fieldformlabel-disabled'">Total Charge</label>
+                <label for="totalamount" class="cc-heading2"
+                [ngClass]="isLabelEnabled ? (totalAmount != '$00.00' ? 'ccbluetext': 'cc-heading2') :'cc-heading2-disabled'">{{totalAmount}}</label>
+            </div>
+            <div class="row">
+                <button class="cc-buttonprimary" style="margin: 0 auto"
+                        [disabled]="!amountDetails.valid || totalAmount == '$00.00'"
+                        (click)="onConfirm(amountDetails)">Confirm</button>
+                <div [ngClass]="showpopups ? 'showpopcss' : 'dontshowpopcss'">
+                    <div class="image-container">
+                  <img src="../../assets/images/ingenico-screens/amount-confirmation.png" alt="First image"/>
+                  </div>
+                  <div class="popup-text">{{ buttonLabels }}</div>
+                </div>
+                <div [ngClass]="showpopups1 ? 'showpopcss' : 'dontshowpopcss'">
+                    <div class="image-container">
+                  <img src="../../assets/images/ingenico-screens/patron-signature.png" alt="Second image"/>
+                  </div>
+                  <div class="popup-text">{{ buttonSecondPopup }}</div>
+                </div>
+                <div [ngClass]="showpopups2 ? 'showpopcss' : 'dontshowpopcss'">
+                    <div class="image-container">
+                    <img src="../../assets/images/ingenico-screens/patron-receipt.png" alt="Second image"/>
+                    </div>
+                    <div class="popup-text">{{ buttonThirdPopup }}</div>
+                  </div>
+                </div>
+
+            </div>
+        </form>
+<!-- ================================================================================================================================= -->
+
+
+<!-- ================================================================================================================================= -->
+
+<div *ngIf="showPopup4" class="popup-overlay">
+    <div class="popup-container">
+        <div class="popup-header">Transaction Summary</div>
+        <div class="summary-details">
+            <div class="summary-item">
+                <label>Amount:</label>
+                <span>{{ requestedAmount }}</span>
+            </div>
+            <div class="summary-item">
+                <label>Fees Amount:</label>
+                <span>{{ feeAmount }}</span>
+            </div>
+            <div class="summary-item">
+                <label>Total Amount:</label>
+                <span>{{ totalAmount }}</span>
+            </div>
+            <div class="summary-item">
+                <label>Signature:</label>
+                <span>{{ ServerSig }}</span>
+            </div>
+        </div>
+        <div class="button-group">
+            <button class="close-btn" (click)="handlePopupClose()">Close</button>
+            <button class="yes-btn" (click)="handleTransactionSuccessE()">Confirm</button>
+        </div>
+        <div class="emoji-container">
+            <img *ngIf="showSadEmojis" src="../../assets/images/transaction-declined.png" alt="Sad Emoji" />
+            <img *ngIf="showHappyEmojis" src="../../assets/images/success.gif" alt="Happy Emoji" />
+        </div>
+        <div *ngIf="transactionSuccessful" class="success-message">
+            Transaction Successful!
+        </div>
+    </div>
+</div>
+<!-- =================================================================================================================== -->
+</div>
+
+<div *ngIf="noCarddata" class="card-popup white-background">
+    <div class="popup-text">
+      <h3>{{ popupContent }}</h3>
+    </div>
+    <div class="popup-body">
+      <div class="button-group">
+        <button class="no-btn" (click)="handleTransactionNo()">No</button>
+        <button class="yes-btn" (click)="handleTransactionSuccessS()">Yes</button>
+      </div>
+      <div class="emoji-container">
+        <img *ngIf="showSadEmoji" src="../../assets/images/success.gif" alt="Sad Emoji" />
+        <img *ngIf="showHappyEmoji" src="../../assets/images/success.gif" alt="Happy Emoji" />
+      </div>
+    </div>
+    <div *ngIf="transactionSuccessful" class="success-message">
+      Transaction Closed!
+    </div>
+  </div>

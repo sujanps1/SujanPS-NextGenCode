@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="44.8" height="44.8" viewBox="0 0 44.8 44.8">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_2347" data-name="Rectangle 2347" width="44.8" height="44.8" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Patron_Not_Present_Icon" data-name="Patron Not Present Icon" clip-path="url(#clip-path)">
+    <g id="CC6__CardNotPresent_Light" transform="translate(0 1.49)">
+      <path id="Path_25505" data-name="Path 25505" d="M23.161,41.277A16.788,16.788,0,1,1,39.949,24.488,16.788,16.788,0,0,1,23.161,41.277Z" transform="translate(-4.345 -5.686)" fill="#fff"/>
+      <path id="Path_25506" data-name="Path 25506" d="M23.378,9.957A14.761,14.761,0,1,1,8.631,24.7,14.761,14.761,0,0,1,23.378,9.957m0-4.055A18.816,18.816,0,1,0,42.194,24.7,18.816,18.816,0,0,0,23.378,5.9Z" transform="translate(-4.562 -5.902)" fill="#bdb0d0"/>
+      <path id="Path_25507" data-name="Path 25507" d="M22.444,23.9c-3.366,0-10.043,1.838-10.1,5.177a12.166,12.166,0,0,0,20.276,0C32.5,25.735,25.8,23.9,22.444,23.9Z" transform="translate(-3.628 -3.742)" fill="#24135f"/>
+      <path id="Path_25508" data-name="Path 25508" d="M21.876,22.119a5.055,5.055,0,1,0,0-10.1h0a5.055,5.055,0,0,0,0,10.1Z" transform="translate(-3.06 -5.168)" fill="#24135f"/>
+      <rect id="Rectangle_2349" data-name="Rectangle 2349" width="4.636" height="16.356" rx="2.064" transform="matrix(0.68, -0.733, 0.733, 0.68, 29.652, 30.702)" fill="#bdb0d0"/>
+    </g>
+  </g>
+</svg>

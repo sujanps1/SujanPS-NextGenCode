@@ -1,0 +1,45 @@
+.cc-transaction-container-left {
+    width: 79%;
+    height: 100%;
+    float: left;
+    /* padding-left: 107px;
+    padding-right: 107px; */
+    /* background-color: blue; */
+    border-top: 0px;
+    border-bottom: 0px;
+    border-left: 1px;
+    border-right: 1px;
+    border-style: solid;
+    border-color: #CECECE;
+}
+
+.cc-transaction-container-right {
+    width: 21%;
+    height: 100%;
+    float: right;
+    /* padding-left: 56px;
+    padding-right: 56px; */
+    /* background-color: red; */
+}
+
+.cc-transaction-container-top {
+    width: 100%;
+    height: 30%;
+    float: top;
+    border-top: 0px;
+    border-bottom: 1px;
+    border-left: 0px;
+    border-right: 0px;
+    border-style: solid;
+    border-color: #CECECE;
+    /* padding-left: 56px;
+    padding-right: 56px; */
+    /* background-color: yellow; */
+}
+
+.cc-transaction-container-bottom {
+    width: 100%;
+    height: 70%;
+    float: bottom;
+    /* background-color: green; */
+}

@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Everi.CAPS.Utility">
+      <HintPath>..\..\..\..\Downloads\Everi.CAPS.Utility.dll</HintPath>
+    </Reference>
+    <Reference Include="EviCapsConnect">
+      <HintPath>..\..\..\..\Downloads\EviCapsConnect.dll</HintPath>
+    </Reference>
+    <Reference Include="GCA.CashClub.CashClubUtility">
+      <HintPath>..\..\..\..\Downloads\GCA.CashClub.CashClubUtility.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

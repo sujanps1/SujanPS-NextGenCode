@@ -1,0 +1,45 @@
+<div class="container cc-transactiondetails "
+  [ngClass]="{cctransactiondetailsdisabled : isTransactionDetailsAvailable === true}">
+  <div class="row col-md-12">
+    <div class="form-group col-md-6 col-12">
+      <div class="row cc-labelcontainer" style="margin-top: 25px;">
+        <label for="cardHolderName" class="cc-statustext">
+          Cardholder Name
+        </label>
+        <label for="cardHolderName" class="cc-fontbody-bold">{{cardHolderName}}</label>
+      </div>
+      <div class="row" style="margin-top: 15px;">
+        <label for="bankName" class="cc-statustext">
+          Bank Name
+        </label>
+        <label for="bankName" class="cc-fontbody-bold">{{bankName}}</label>
+      </div>
+      <div class="row" style="margin-top: 15px;">
+        <label for="cardType" class="cc-statustext">
+          Card Type
+        </label>
+        <label for="cardType" class="cc-fontbody-bold">{{cardType}}</label>
+      </div>
+    </div>
+    <div class="form-group col-md-6 col-12">
+      <div class="row" style="margin-top: 25px;">
+        <label for="cardNumber" class="cc-statustext">
+          Card Number
+        </label>
+        <label for="cardNumber" class="cc-fontbody-bold">{{cardNumber}}</label>
+      </div>
+      <div class="row" style="margin-top: 15px;">
+        <label for="transactionMode" class="cc-statustext">
+          Transaction Mode
+        </label>
+        <label for="transactionMode" class="cc-fontbody-bold">{{transactionMode}}</label>
+      </div>
+      <div class="row" style="margin-top: 15px;">
+        <label for="transactionType" class="cc-statustext">
+          Transaction Type
+        </label>
+        <label for="transactionType" class="cc-fontbody-bold">{{transactionType}}</label>
+      </div>
+    </div>
+  </div>
+</div>

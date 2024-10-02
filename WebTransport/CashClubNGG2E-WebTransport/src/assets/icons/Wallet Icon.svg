@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="45" height="45" viewBox="0 0 45 45">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_3113" data-name="Rectangle 3113" width="45" height="45" transform="translate(-0.349 0.396)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Wallet_Icon" data-name="Wallet Icon" transform="translate(0.349 -0.396)" clip-path="url(#clip-path)">
+    <g id="CC6__Wallet_Light" transform="translate(2.718 0.195)">
+      <path id="Purple_Card" data-name="Purple Card" d="M43.067,19.764,10.4,16.9a3.734,3.734,0,0,0-2.813.846l-.237-1.083a3.423,3.423,0,0,1,2.876-4.021L36.656,7.789a3.734,3.734,0,0,1,4.382,2.739Z" transform="translate(-3.942 -1.591)" fill="#bdb0d0"/>
+      <g id="Card" transform="translate(2.743)">
+        <g id="Group_697" data-name="Group 697">
+          <g id="Group_685" data-name="Group 685">
+            <g id="Group_696" data-name="Group 696">
+              <path id="Path_1270-2-2" data-name="Path 1270-2-2" d="M35.091,34.088l8.527-17.3a1.145,1.145,0,0,0-.523-1.544h0L17.1,2.432a1.245,1.245,0,0,0-1.73.436L6.846,20.158a1.245,1.245,0,0,0,.71,1.643l25.98,12.784a1.158,1.158,0,0,0,1.556-.523Z" transform="translate(-6.75 -2.247)" fill="#fff"/>
+            </g>
+            <g id="Group_682" data-name="Group 682" transform="translate(2.46 17.336)">
+              <g id="Group_681" data-name="Group 681">
+                <path id="Path_1271" data-name="Path 1271" d="M9.01,18.1a.635.635,0,0,1,.859-.311l4,1.979a.635.635,0,0,1,.261.859.647.647,0,0,1-.822.286l-4-1.954a.647.647,0,0,1-.3-.859Z" transform="translate(-8.947 -17.725)" fill="#fff"/>
+              </g>
+            </g>
+            <g id="Group_684" data-name="Group 684" transform="translate(3.58 15.067)">
+              <g id="Group_683" data-name="Group 683">
+                <path id="Path_1272" data-name="Path 1272" d="M10.01,16.054a.622.622,0,0,1,.846-.286L20.6,20.523a.638.638,0,0,1-.56,1.145l-9.735-4.755A.647.647,0,0,1,10.01,16.054Z" transform="translate(-9.947 -15.699)" fill="#fff"/>
+              </g>
+            </g>
+          </g>
+          <path id="Path_1275" data-name="Path 1275" d="M32.151,9.7l4.842,2.49-12.448,18-5.228-2.577Z" transform="translate(-5.242 -1.352)" fill="#fff" opacity="0.22"/>
+        </g>
+        <rect id="Rectangle_926" data-name="Rectangle 926" width="5.104" height="31.631" transform="translate(5.092 7.544) rotate(-64.01)" fill="#24135f"/>
+      </g>
+      <path id="Wallet_2" data-name="Wallet 2" d="M44.441,19.024,42.387,42.576a3.473,3.473,0,0,1-3.734,3.162h0L7.532,43.025A3.486,3.486,0,0,1,4.358,39.29h0l2-23.6a3.51,3.51,0,0,1,.473-1.481,3.871,3.871,0,0,1,.647-.772,3.473,3.473,0,0,1,2.664-.9l31.121,2.726A3.461,3.461,0,0,1,44.429,19Z" transform="translate(-4.295 -1.013)" fill="#bdb0d0"/>
+      <path id="Wallet_Flap" data-name="Wallet Flap" d="M41.707,24.1l-.959,10.83L28.363,33.859a5.4,5.4,0,0,1-3.448-1.693h0a5.353,5.353,0,0,1,.3-7.544,4.1,4.1,0,0,1,.51-.411l.224-.162a5.278,5.278,0,0,1,3.585-1Z" transform="translate(-1.997 0.248)" fill="#5a4f89"/>
+      <circle id="Wallet_Button" data-name="Wallet Button" cx="2.689" cy="2.689" r="2.689" transform="translate(24.959 25.866)" fill="#f2f2f2" opacity="0.61"/>
+      <path id="Wallet_Shadow" data-name="Wallet Shadow" d="M35.472,42.768a62.811,62.811,0,0,1,6.461,1.245,3.486,3.486,0,0,1-3.224,1.581L7.488,42.83A3.448,3.448,0,0,1,4.314,39.1h0L6.368,15.718a3.423,3.423,0,0,1,.485-1.469A32.913,32.913,0,0,1,8.347,26.012C8.111,37.925,8.135,37.49,9.592,39,13.351,43.1,23.609,41.224,35.472,42.768Z" transform="translate(-4.301 -0.806)" fill="#5a4f89" opacity="0.15"/>
+    </g>
+  </g>
+</svg>

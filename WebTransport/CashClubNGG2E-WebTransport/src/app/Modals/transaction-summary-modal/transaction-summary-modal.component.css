@@ -1,0 +1,35 @@
+.cc-modal-layout {
+  /* Layout Properties */
+  width: 100%;
+  height: calc(100vh - 72px);
+  position: absolute;
+  /* UI Properties */
+  background: transparent linear-gradient(180deg, var(--unnamed-color-24135f) 0%, var(---5f4dbf) 100%) 0% 0% no-repeat padding-box;
+  background: transparent linear-gradient(180deg, rgba(36, 19, 95, 0.9) 0%, #5F4DBF 100%) 0% 0% no-repeat padding-box;
+}
+
+.cc-modal-header-secondary {
+  /* Layout Properties */
+  margin-top: 6%;
+  width: 336px;
+  height: 36px;
+  /* UI Properties */
+  font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-600) var(--unnamed-font-size-24)/var(--unnamed-line-spacing-32) var(--unnamed-font-family-titillium-web);
+  letter-spacing: var(--unnamed-character-spacing-0);
+  text-align: center;
+  font: normal normal 600 24px/32px Titillium Web;
+  letter-spacing: 0px;
+  opacity: 1;
+}
+
+.cc-modal-body {
+  margin-top: 5%;
+  width: 433px;
+  height: 280px;
+  /* UI Properties */
+  opacity: 1;
+}
+
+.cc-header-value {
+  color: #10A53D;
+}

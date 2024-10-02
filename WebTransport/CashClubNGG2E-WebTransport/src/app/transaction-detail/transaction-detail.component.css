@@ -1,0 +1,10 @@
+ .disabled {
+   pointer-events: none;
+   opacity: 1;
+   background: #f5f5f5;
+ }
+
+ .cc-fontbody {
+   font: normal normal normal 16px/22px Titillium Web;
+ }
+ 

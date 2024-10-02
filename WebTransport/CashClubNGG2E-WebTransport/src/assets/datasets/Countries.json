@@ -1,0 +1,1663 @@
+{
+    "Country": [
+        {
+            "Code": "US",
+            "Name": "UNITED STATES",
+            "PrintableName": "United States",
+            "Code3": "USA",
+            "NumCode": "840"
+        },
+        {
+            "Code": "CA",
+            "Name": "CANADA",
+            "PrintableName": "Canada",
+            "Code3": "CAN",
+            "NumCode": "124"
+        },
+        {
+            "Code": "MO",
+            "Name": "MACAU",
+            "PrintableName": "Macau",
+            "Code3": "MAC",
+            "NumCode": "446"
+        },
+        {
+            "Code": "AF",
+            "Name": "AFGHANISTAN",
+            "PrintableName": "Afghanistan",
+            "Code3": "AFG",
+            "NumCode": "4"
+        },
+        {
+            "Code": "AL",
+            "Name": "ALBANIA",
+            "PrintableName": "Albania",
+            "Code3": "ALB",
+            "NumCode": "8"
+        },
+        {
+            "Code": "DZ",
+            "Name": "ALGERIA",
+            "PrintableName": "Algeria",
+            "Code3": "DZA",
+            "NumCode": "12"
+        },
+        {
+            "Code": "AS",
+            "Name": "AMERICAN SAMOA",
+            "PrintableName": "American Samoa",
+            "Code3": "ASM",
+            "NumCode": "16"
+        },
+        {
+            "Code": "AD",
+            "Name": "ANDORRA",
+            "PrintableName": "Andorra",
+            "Code3": "AND",
+            "NumCode": "20"
+        },
+        {
+            "Code": "AO",
+            "Name": "ANGOLA",
+            "PrintableName": "Angola",
+            "Code3": "AGO",
+            "NumCode": "24"
+        },
+        {
+            "Code": "AI",
+            "Name": "ANGUILLA",
+            "PrintableName": "Anguilla",
+            "Code3": "AIA",
+            "NumCode": "660"
+        },
+        {
+            "Code": "AQ",
+            "Name": "ANTARCTICA",
+            "PrintableName": "Antarctica"
+        },
+        {
+            "Code": "AG",
+            "Name": "ANTIGUA AND BARBUDA",
+            "PrintableName": "Antigua and Barbuda",
+            "Code3": "ATG",
+            "NumCode": "28"
+        },
+        {
+            "Code": "AR",
+            "Name": "ARGENTINA",
+            "PrintableName": "Argentina",
+            "Code3": "ARG",
+            "NumCode": "32"
+        },
+        {
+            "Code": "AM",
+            "Name": "ARMENIA",
+            "PrintableName": "Armenia",
+            "Code3": "ARM",
+            "NumCode": "51"
+        },
+        {
+            "Code": "AW",
+            "Name": "ARUBA",
+            "PrintableName": "Aruba",
+            "Code3": "ABW",
+            "NumCode": "533"
+        },
+        {
+            "Code": "AU",
+            "Name": "AUSTRALIA",
+            "PrintableName": "Australia",
+            "Code3": "AUS",
+            "NumCode": "36"
+        },
+        {
+            "Code": "AT",
+            "Name": "AUSTRIA",
+            "PrintableName": "Austria",
+            "Code3": "AUT",
+            "NumCode": "40"
+        },
+        {
+            "Code": "AZ",
+            "Name": "AZERBAIJAN",
+            "PrintableName": "Azerbaijan",
+            "Code3": "AZE",
+            "NumCode": "31"
+        },
+        {
+            "Code": "BS",
+            "Name": "BAHAMAS",
+            "PrintableName": "Bahamas",
+            "Code3": "BHS",
+            "NumCode": "44"
+        },
+        {
+            "Code": "BH",
+            "Name": "BAHRAIN",
+            "PrintableName": "Bahrain",
+            "Code3": "BHR",
+            "NumCode": "48"
+        },
+        {
+            "Code": "BD",
+            "Name": "BANGLADESH",
+            "PrintableName": "Bangladesh",
+            "Code3": "BGD",
+            "NumCode": "50"
+        },
+        {
+            "Code": "BB",
+            "Name": "BARBADOS",
+            "PrintableName": "Barbados",
+            "Code3": "BRB",
+            "NumCode": "52"
+        },
+        {
+            "Code": "BY",
+            "Name": "BELARUS",
+            "PrintableName": "Belarus",
+            "Code3": "BLR",
+            "NumCode": "112"
+        },
+        {
+            "Code": "BE",
+            "Name": "BELGIUM",
+            "PrintableName": "Belgium",
+            "Code3": "BEL",
+            "NumCode": "56"
+        },
+        {
+            "Code": "BZ",
+            "Name": "BELIZE",
+            "PrintableName": "Belize",
+            "Code3": "BLZ",
+            "NumCode": "84"
+        },
+        {
+            "Code": "BJ",
+            "Name": "BENIN",
+            "PrintableName": "Benin",
+            "Code3": "BEN",
+            "NumCode": "204"
+        },
+        {
+            "Code": "BM",
+            "Name": "BERMUDA",
+            "PrintableName": "Bermuda",
+            "Code3": "BMU",
+            "NumCode": "60"
+        },
+        {
+            "Code": "BT",
+            "Name": "BHUTAN",
+            "PrintableName": "Bhutan",
+            "Code3": "BTN",
+            "NumCode": "64"
+        },
+        {
+            "Code": "BO",
+            "Name": "BOLIVIA",
+            "PrintableName": "Bolivia",
+            "Code3": "BOL",
+            "NumCode": "68"
+        },
+        {
+            "Code": "BA",
+            "Name": "BOSNIA AND HERZEGOVINA",
+            "PrintableName": "Bosnia and Herzegovina",
+            "Code3": "BIH",
+            "NumCode": "70"
+        },
+        {
+            "Code": "BW",
+            "Name": "BOTSWANA",
+            "PrintableName": "Botswana",
+            "Code3": "BWA",
+            "NumCode": "72"
+        },
+        {
+            "Code": "BV",
+            "Name": "BOUVET ISLAND",
+            "PrintableName": "Bouvet Island"
+        },
+        {
+            "Code": "BR",
+            "Name": "BRAZIL",
+            "PrintableName": "Brazil",
+            "Code3": "BRA",
+            "NumCode": "76"
+        },
+        {
+            "Code": "IO",
+            "Name": "BRITISH INDIAN OCEAN TERRITORY",
+            "PrintableName": "British Indian Ocean Territory"
+        },
+        {
+            "Code": "BN",
+            "Name": "BRUNEI DARUSSALAM",
+            "PrintableName": "Brunei Darussalam",
+            "Code3": "BRN",
+            "NumCode": "96"
+        },
+        {
+            "Code": "BG",
+            "Name": "BULGARIA",
+            "PrintableName": "Bulgaria",
+            "Code3": "BGR",
+            "NumCode": "100"
+        },
+        {
+            "Code": "BF",
+            "Name": "BURKINA FASO",
+            "PrintableName": "Burkina Faso",
+            "Code3": "BFA",
+            "NumCode": "854"
+        },
+        {
+            "Code": "BI",
+            "Name": "BURUNDI",
+            "PrintableName": "Burundi",
+            "Code3": "BDI",
+            "NumCode": "108"
+        },
+        {
+            "Code": "KH",
+            "Name": "CAMBODIA",
+            "PrintableName": "Cambodia",
+            "Code3": "KHM",
+            "NumCode": "116"
+        },
+        {
+            "Code": "CM",
+            "Name": "CAMEROON",
+            "PrintableName": "Cameroon",
+            "Code3": "CMR",
+            "NumCode": "120"
+        },
+        {
+            "Code": "CV",
+            "Name": "CAPE VERDE",
+            "PrintableName": "Cape Verde",
+            "Code3": "CPV",
+            "NumCode": "132"
+        },
+        {
+            "Code": "KY",
+            "Name": "CAYMAN ISLANDS",
+            "PrintableName": "Cayman Islands",
+            "Code3": "CYM",
+            "NumCode": "136"
+        },
+        {
+            "Code": "CF",
+            "Name": "CENTRAL AFRICAN REPUBLIC",
+            "PrintableName": "Central African Republic",
+            "Code3": "CAF",
+            "NumCode": "140"
+        },
+        {
+            "Code": "TD",
+            "Name": "CHAD",
+            "PrintableName": "Chad",
+            "Code3": "TCD",
+            "NumCode": "148"
+        },
+        {
+            "Code": "CL",
+            "Name": "CHILE",
+            "PrintableName": "Chile",
+            "Code3": "CHL",
+            "NumCode": "152"
+        },
+        {
+            "Code": "CN",
+            "Name": "CHINA",
+            "PrintableName": "China",
+            "Code3": "CHN",
+            "NumCode": "156"
+        },
+        {
+            "Code": "CX",
+            "Name": "CHRISTMAS ISLAND",
+            "PrintableName": "Christmas Island"
+        },
+        {
+            "Code": "CC",
+            "Name": "COCOS (KEELING) ISLANDS",
+            "PrintableName": "Cocos (Keeling) Islands"
+        },
+        {
+            "Code": "CO",
+            "Name": "COLOMBIA",
+            "PrintableName": "Colombia",
+            "Code3": "COL",
+            "NumCode": "170"
+        },
+        {
+            "Code": "KM",
+            "Name": "COMOROS",
+            "PrintableName": "Comoros",
+            "Code3": "COM",
+            "NumCode": "174"
+        },
+        {
+            "Code": "CG",
+            "Name": "CONGO",
+            "PrintableName": "Congo",
+            "Code3": "COG",
+            "NumCode": "178"
+        },
+        {
+            "Code": "CD",
+            "Name": "CONGO, THE DEMOCRATIC REPUBLIC OF THE",
+            "PrintableName": "Congo, the Democratic Republic of the",
+            "Code3": "COD",
+            "NumCode": "180"
+        },
+        {
+            "Code": "CK",
+            "Name": "COOK ISLANDS",
+            "PrintableName": "Cook Islands",
+            "Code3": "COK",
+            "NumCode": "184"
+        },
+        {
+            "Code": "CR",
+            "Name": "COSTA RICA",
+            "PrintableName": "Costa Rica",
+            "Code3": "CRI",
+            "NumCode": "188"
+        },
+        {
+            "Code": "CI",
+            "Name": "COTE D'IVOIRE",
+            "PrintableName": "Cote D'Ivoire",
+            "Code3": "CIV",
+            "NumCode": "384"
+        },
+        {
+            "Code": "HR",
+            "Name": "CROATIA",
+            "PrintableName": "Croatia",
+            "Code3": "HRV",
+            "NumCode": "191"
+        },
+        {
+            "Code": "CU",
+            "Name": "CUBA",
+            "PrintableName": "Cuba",
+            "Code3": "CUB",
+            "NumCode": "192"
+        },
+        {
+            "Code": "CW",
+            "Name": "CURACAO",
+            "PrintableName": "Curaçao",
+            "Code3": "CUW",
+            "NumCode": "531"
+        },
+        {
+            "Code": "CY",
+            "Name": "CYPRUS",
+            "PrintableName": "Cyprus",
+            "Code3": "CYP",
+            "NumCode": "196"
+        },
+        {
+            "Code": "CZ",
+            "Name": "CZECH REPUBLIC",
+            "PrintableName": "Czech Republic",
+            "Code3": "CZE",
+            "NumCode": "203"
+        },
+        {
+            "Code": "DK",
+            "Name": "DENMARK",
+            "PrintableName": "Denmark",
+            "Code3": "DNK",
+            "NumCode": "208"
+        },
+        {
+            "Code": "DJ",
+            "Name": "DJIBOUTI",
+            "PrintableName": "Djibouti",
+            "Code3": "DJI",
+            "NumCode": "262"
+        },
+        {
+            "Code": "DM",
+            "Name": "DOMINICA",
+            "PrintableName": "Dominica",
+            "Code3": "DMA",
+            "NumCode": "212"
+        },
+        {
+            "Code": "DO",
+            "Name": "DOMINICAN REPUBLIC",
+            "PrintableName": "Dominican Republic",
+            "Code3": "DOM",
+            "NumCode": "214"
+        },
+        {
+            "Code": "EC",
+            "Name": "ECUADOR",
+            "PrintableName": "Ecuador",
+            "Code3": "ECU",
+            "NumCode": "218"
+        },
+        {
+            "Code": "EG",
+            "Name": "EGYPT",
+            "PrintableName": "Egypt",
+            "Code3": "EGY",
+            "NumCode": "818"
+        },
+        {
+            "Code": "SV",
+            "Name": "EL SALVADOR",
+            "PrintableName": "El Salvador",
+            "Code3": "SLV",
+            "NumCode": "222"
+        },
+        {
+            "Code": "GQ",
+            "Name": "EQUATORIAL GUINEA",
+            "PrintableName": "Equatorial Guinea",
+            "Code3": "GNQ",
+            "NumCode": "226"
+        },
+        {
+            "Code": "ER",
+            "Name": "ERITREA",
+            "PrintableName": "Eritrea",
+            "Code3": "ERI",
+            "NumCode": "232"
+        },
+        {
+            "Code": "EE",
+            "Name": "ESTONIA",
+            "PrintableName": "Estonia",
+            "Code3": "EST",
+            "NumCode": "233"
+        },
+        {
+            "Code": "ET",
+            "Name": "ETHIOPIA",
+            "PrintableName": "Ethiopia",
+            "Code3": "ETH",
+            "NumCode": "231"
+        },
+        {
+            "Code": "FK",
+            "Name": "FALKLAND ISLANDS (MALVINAS)",
+            "PrintableName": "Falkland Islands (Malvinas)",
+            "Code3": "FLK",
+            "NumCode": "238"
+        },
+        {
+            "Code": "FO",
+            "Name": "FAROE ISLANDS",
+            "PrintableName": "Faroe Islands",
+            "Code3": "FRO",
+            "NumCode": "234"
+        },
+        {
+            "Code": "FJ",
+            "Name": "FIJI",
+            "PrintableName": "Fiji",
+            "Code3": "FJI",
+            "NumCode": "242"
+        },
+        {
+            "Code": "FI",
+            "Name": "FINLAND",
+            "PrintableName": "Finland",
+            "Code3": "FIN",
+            "NumCode": "246"
+        },
+        {
+            "Code": "FR",
+            "Name": "FRANCE",
+            "PrintableName": "France",
+            "Code3": "FRA",
+            "NumCode": "250"
+        },
+        {
+            "Code": "GF",
+            "Name": "FRENCH GUIANA",
+            "PrintableName": "French Guiana",
+            "Code3": "GUF",
+            "NumCode": "254"
+        },
+        {
+            "Code": "PF",
+            "Name": "FRENCH POLYNESIA",
+            "PrintableName": "French Polynesia",
+            "Code3": "PYF",
+            "NumCode": "258"
+        },
+        {
+            "Code": "TF",
+            "Name": "FRENCH SOUTHERN TERRITORIES",
+            "PrintableName": "French Southern Territories"
+        },
+        {
+            "Code": "GA",
+            "Name": "GABON",
+            "PrintableName": "Gabon",
+            "Code3": "GAB",
+            "NumCode": "266"
+        },
+        {
+            "Code": "GM",
+            "Name": "GAMBIA",
+            "PrintableName": "Gambia",
+            "Code3": "GMB",
+            "NumCode": "270"
+        },
+        {
+            "Code": "GE",
+            "Name": "GEORGIA",
+            "PrintableName": "Georgia",
+            "Code3": "GEO",
+            "NumCode": "268"
+        },
+        {
+            "Code": "DE",
+            "Name": "GERMANY",
+            "PrintableName": "Germany",
+            "Code3": "DEU",
+            "NumCode": "276"
+        },
+        {
+            "Code": "GH",
+            "Name": "GHANA",
+            "PrintableName": "Ghana",
+            "Code3": "GHA",
+            "NumCode": "288"
+        },
+        {
+            "Code": "GI",
+            "Name": "GIBRALTAR",
+            "PrintableName": "Gibraltar",
+            "Code3": "GIB",
+            "NumCode": "292"
+        },
+        {
+            "Code": "GR",
+            "Name": "GREECE",
+            "PrintableName": "Greece",
+            "Code3": "GRC",
+            "NumCode": "300"
+        },
+        {
+            "Code": "GL",
+            "Name": "GREENLAND",
+            "PrintableName": "Greenland",
+            "Code3": "GRL",
+            "NumCode": "304"
+        },
+        {
+            "Code": "GD",
+            "Name": "GRENADA",
+            "PrintableName": "Grenada",
+            "Code3": "GRD",
+            "NumCode": "308"
+        },
+        {
+            "Code": "GP",
+            "Name": "GUADELOUPE",
+            "PrintableName": "Guadeloupe",
+            "Code3": "GLP",
+            "NumCode": "312"
+        },
+        {
+            "Code": "GU",
+            "Name": "GUAM",
+            "PrintableName": "Guam",
+            "Code3": "GUM",
+            "NumCode": "316"
+        },
+        {
+            "Code": "GT",
+            "Name": "GUATEMALA",
+            "PrintableName": "Guatemala",
+            "Code3": "GTM",
+            "NumCode": "320"
+        },
+        {
+            "Code": "GN",
+            "Name": "GUINEA",
+            "PrintableName": "Guinea",
+            "Code3": "GIN",
+            "NumCode": "324"
+        },
+        {
+            "Code": "GW",
+            "Name": "GUINEA-BISSAU",
+            "PrintableName": "Guinea-Bissau",
+            "Code3": "GNB",
+            "NumCode": "624"
+        },
+        {
+            "Code": "GY",
+            "Name": "GUYANA",
+            "PrintableName": "Guyana",
+            "Code3": "GUY",
+            "NumCode": "328"
+        },
+        {
+            "Code": "HT",
+            "Name": "HAITI",
+            "PrintableName": "Haiti",
+            "Code3": "HTI",
+            "NumCode": "332"
+        },
+        {
+            "Code": "HM",
+            "Name": "HEARD ISLAND AND MCDONALD ISLANDS",
+            "PrintableName": "Heard Island and Mcdonald Islands"
+        },
+        {
+            "Code": "VA",
+            "Name": "HOLY SEE (VATICAN CITY STATE)",
+            "PrintableName": "Holy See (Vatican City State)",
+            "Code3": "VAT",
+            "NumCode": "336"
+        },
+        {
+            "Code": "HN",
+            "Name": "HONDURAS",
+            "PrintableName": "Honduras",
+            "Code3": "HND",
+            "NumCode": "340"
+        },
+        {
+            "Code": "HK",
+            "Name": "HONG KONG",
+            "PrintableName": "Hong Kong",
+            "Code3": "HKG",
+            "NumCode": "344"
+        },
+        {
+            "Code": "HU",
+            "Name": "HUNGARY",
+            "PrintableName": "Hungary",
+            "Code3": "HUN",
+            "NumCode": "348"
+        },
+        {
+            "Code": "IS",
+            "Name": "ICELAND",
+            "PrintableName": "Iceland",
+            "Code3": "ISL",
+            "NumCode": "352"
+        },
+        {
+            "Code": "IN",
+            "Name": "INDIA",
+            "PrintableName": "India",
+            "Code3": "IND",
+            "NumCode": "356"
+        },
+        {
+            "Code": "ID",
+            "Name": "INDONESIA",
+            "PrintableName": "Indonesia",
+            "Code3": "IDN",
+            "NumCode": "360"
+        },
+        {
+            "Code": "IR",
+            "Name": "IRAN, ISLAMIC REPUBLIC OF",
+            "PrintableName": "Iran, Islamic Republic of",
+            "Code3": "IRN",
+            "NumCode": "364"
+        },
+        {
+            "Code": "IQ",
+            "Name": "IRAQ",
+            "PrintableName": "Iraq",
+            "Code3": "IRQ",
+            "NumCode": "368"
+        },
+        {
+            "Code": "IE",
+            "Name": "IRELAND",
+            "PrintableName": "Ireland",
+            "Code3": "IRL",
+            "NumCode": "372"
+        },
+        {
+            "Code": "IL",
+            "Name": "ISRAEL",
+            "PrintableName": "Israel",
+            "Code3": "ISR",
+            "NumCode": "376"
+        },
+        {
+            "Code": "IT",
+            "Name": "ITALY",
+            "PrintableName": "Italy",
+            "Code3": "ITA",
+            "NumCode": "380"
+        },
+        {
+            "Code": "JM",
+            "Name": "JAMAICA",
+            "PrintableName": "Jamaica",
+            "Code3": "JAM",
+            "NumCode": "388"
+        },
+        {
+            "Code": "JP",
+            "Name": "JAPAN",
+            "PrintableName": "Japan",
+            "Code3": "JPN",
+            "NumCode": "392"
+        },
+        {
+            "Code": "JO",
+            "Name": "JORDAN",
+            "PrintableName": "Jordan",
+            "Code3": "JOR",
+            "NumCode": "400"
+        },
+        {
+            "Code": "KZ",
+            "Name": "KAZAKHSTAN",
+            "PrintableName": "Kazakhstan",
+            "Code3": "KAZ",
+            "NumCode": "398"
+        },
+        {
+            "Code": "KE",
+            "Name": "KENYA",
+            "PrintableName": "Kenya",
+            "Code3": "KEN",
+            "NumCode": "404"
+        },
+        {
+            "Code": "KI",
+            "Name": "KIRIBATI",
+            "PrintableName": "Kiribati",
+            "Code3": "KIR",
+            "NumCode": "296"
+        },
+        {
+            "Code": "KP",
+            "Name": "KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF",
+            "PrintableName": "Korea, Democratic People's Republic of",
+            "Code3": "PRK",
+            "NumCode": "408"
+        },
+        {
+            "Code": "KR",
+            "Name": "KOREA, REPUBLIC OF",
+            "PrintableName": "Korea, Republic of",
+            "Code3": "KOR",
+            "NumCode": "410"
+        },
+        {
+            "Code": "KW",
+            "Name": "KUWAIT",
+            "PrintableName": "Kuwait",
+            "Code3": "KWT",
+            "NumCode": "414"
+        },
+        {
+            "Code": "KG",
+            "Name": "KYRGYZSTAN",
+            "PrintableName": "Kyrgyzstan",
+            "Code3": "KGZ",
+            "NumCode": "417"
+        },
+        {
+            "Code": "LA",
+            "Name": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+            "PrintableName": "Lao People's Democratic Republic",
+            "Code3": "LAO",
+            "NumCode": "418"
+        },
+        {
+            "Code": "LV",
+            "Name": "LATVIA",
+            "PrintableName": "Latvia",
+            "Code3": "LVA",
+            "NumCode": "428"
+        },
+        {
+            "Code": "LB",
+            "Name": "LEBANON",
+            "PrintableName": "Lebanon",
+            "Code3": "LBN",
+            "NumCode": "422"
+        },
+        {
+            "Code": "LS",
+            "Name": "LESOTHO",
+            "PrintableName": "Lesotho",
+            "Code3": "LSO",
+            "NumCode": "426"
+        },
+        {
+            "Code": "LR",
+            "Name": "LIBERIA",
+            "PrintableName": "Liberia",
+            "Code3": "LBR",
+            "NumCode": "430"
+        },
+        {
+            "Code": "LY",
+            "Name": "LIBYAN ARAB JAMAHIRIYA",
+            "PrintableName": "Libyan Arab Jamahiriya",
+            "Code3": "LBY",
+            "NumCode": "434"
+        },
+        {
+            "Code": "LI",
+            "Name": "LIECHTENSTEIN",
+            "PrintableName": "Liechtenstein",
+            "Code3": "LIE",
+            "NumCode": "438"
+        },
+        {
+            "Code": "LT",
+            "Name": "LITHUANIA",
+            "PrintableName": "Lithuania",
+            "Code3": "LTU",
+            "NumCode": "440"
+        },
+        {
+            "Code": "LU",
+            "Name": "LUXEMBOURG",
+            "PrintableName": "Luxembourg",
+            "Code3": "LUX",
+            "NumCode": "442"
+        },
+        {
+            "Code": "MK",
+            "Name": "MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF",
+            "PrintableName": "Macedonia, the Former Yugoslav Republic of",
+            "Code3": "MKD",
+            "NumCode": "807"
+        },
+        {
+            "Code": "MG",
+            "Name": "MADAGASCAR",
+            "PrintableName": "Madagascar",
+            "Code3": "MDG",
+            "NumCode": "450"
+        },
+        {
+            "Code": "MW",
+            "Name": "MALAWI",
+            "PrintableName": "Malawi",
+            "Code3": "MWI",
+            "NumCode": "454"
+        },
+        {
+            "Code": "MY",
+            "Name": "MALAYSIA",
+            "PrintableName": "Malaysia",
+            "Code3": "MYS",
+            "NumCode": "458"
+        },
+        {
+            "Code": "MV",
+            "Name": "MALDIVES",
+            "PrintableName": "Maldives",
+            "Code3": "MDV",
+            "NumCode": "462"
+        },
+        {
+            "Code": "ML",
+            "Name": "MALI",
+            "PrintableName": "Mali",
+            "Code3": "MLI",
+            "NumCode": "466"
+        },
+        {
+            "Code": "MT",
+            "Name": "MALTA",
+            "PrintableName": "Malta",
+            "Code3": "MLT",
+            "NumCode": "470"
+        },
+        {
+            "Code": "MH",
+            "Name": "MARSHALL ISLANDS",
+            "PrintableName": "Marshall Islands",
+            "Code3": "MHL",
+            "NumCode": "584"
+        },
+        {
+            "Code": "MQ",
+            "Name": "MARTINIQUE",
+            "PrintableName": "Martinique",
+            "Code3": "MTQ",
+            "NumCode": "474"
+        },
+        {
+            "Code": "MR",
+            "Name": "MAURITANIA",
+            "PrintableName": "Mauritania",
+            "Code3": "MRT",
+            "NumCode": "478"
+        },
+        {
+            "Code": "MU",
+            "Name": "MAURITIUS",
+            "PrintableName": "Mauritius",
+            "Code3": "MUS",
+            "NumCode": "480"
+        },
+        {
+            "Code": "YT",
+            "Name": "MAYOTTE",
+            "PrintableName": "Mayotte"
+        },
+        {
+            "Code": "MX",
+            "Name": "MEXICO",
+            "PrintableName": "Mexico",
+            "Code3": "MEX",
+            "NumCode": "484"
+        },
+        {
+            "Code": "FM",
+            "Name": "MICRONESIA, FEDERATED STATES OF",
+            "PrintableName": "Micronesia, Federated States of",
+            "Code3": "FSM",
+            "NumCode": "583"
+        },
+        {
+            "Code": "MD",
+            "Name": "MOLDOVA, REPUBLIC OF",
+            "PrintableName": "Moldova, Republic of",
+            "Code3": "MDA",
+            "NumCode": "498"
+        },
+        {
+            "Code": "MC",
+            "Name": "MONACO",
+            "PrintableName": "Monaco",
+            "Code3": "MCO",
+            "NumCode": "492"
+        },
+        {
+            "Code": "MN",
+            "Name": "MONGOLIA",
+            "PrintableName": "Mongolia",
+            "Code3": "MNG",
+            "NumCode": "496"
+        },
+        {
+            "Code": "ME",
+            "Name": "MONTENEGRO",
+            "PrintableName": "Montenegro"
+        },
+        {
+            "Code": "MS",
+            "Name": "MONTSERRAT",
+            "PrintableName": "Montserrat",
+            "Code3": "MSR",
+            "NumCode": "500"
+        },
+        {
+            "Code": "MA",
+            "Name": "MOROCCO",
+            "PrintableName": "Morocco",
+            "Code3": "MAR",
+            "NumCode": "504"
+        },
+        {
+            "Code": "MZ",
+            "Name": "MOZAMBIQUE",
+            "PrintableName": "Mozambique",
+            "Code3": "MOZ",
+            "NumCode": "508"
+        },
+        {
+            "Code": "MM",
+            "Name": "MYANMAR",
+            "PrintableName": "Myanmar",
+            "Code3": "MMR",
+            "NumCode": "104"
+        },
+        {
+            "Code": "NA",
+            "Name": "NAMIBIA",
+            "PrintableName": "Namibia",
+            "Code3": "NAM",
+            "NumCode": "516"
+        },
+        {
+            "Code": "NR",
+            "Name": "NAURU",
+            "PrintableName": "Nauru",
+            "Code3": "NRU",
+            "NumCode": "520"
+        },
+        {
+            "Code": "NP",
+            "Name": "NEPAL",
+            "PrintableName": "Nepal",
+            "Code3": "NPL",
+            "NumCode": "524"
+        },
+        {
+            "Code": "NL",
+            "Name": "NETHERLANDS",
+            "PrintableName": "Netherlands",
+            "Code3": "NLD",
+            "NumCode": "528"
+        },
+        {
+            "Code": "AN",
+            "Name": "NETHERLANDS ANTILLES",
+            "PrintableName": "Netherlands Antilles",
+            "Code3": "ANT",
+            "NumCode": "530"
+        },
+        {
+            "Code": "NC",
+            "Name": "NEW CALEDONIA",
+            "PrintableName": "New Caledonia",
+            "Code3": "NCL",
+            "NumCode": "540"
+        },
+        {
+            "Code": "NZ",
+            "Name": "NEW ZEALAND",
+            "PrintableName": "New Zealand",
+            "Code3": "NZL",
+            "NumCode": "554"
+        },
+        {
+            "Code": "NI",
+            "Name": "NICARAGUA",
+            "PrintableName": "Nicaragua",
+            "Code3": "NIC",
+            "NumCode": "558"
+        },
+        {
+            "Code": "NE",
+            "Name": "NIGER",
+            "PrintableName": "Niger",
+            "Code3": "NER",
+            "NumCode": "562"
+        },
+        {
+            "Code": "NG",
+            "Name": "NIGERIA",
+            "PrintableName": "Nigeria",
+            "Code3": "NGA",
+            "NumCode": "566"
+        },
+        {
+            "Code": "NU",
+            "Name": "NIUE",
+            "PrintableName": "Niue",
+            "Code3": "NIU",
+            "NumCode": "570"
+        },
+        {
+            "Code": "NF",
+            "Name": "NORFOLK ISLAND",
+            "PrintableName": "Norfolk Island",
+            "Code3": "NFK",
+            "NumCode": "574"
+        },
+        {
+            "Code": "MP",
+            "Name": "NORTHERN MARIANA ISLANDS",
+            "PrintableName": "Northern Mariana Islands",
+            "Code3": "MNP",
+            "NumCode": "580"
+        },
+        {
+            "Code": "NO",
+            "Name": "NORWAY",
+            "PrintableName": "Norway",
+            "Code3": "NOR",
+            "NumCode": "578"
+        },
+        {
+            "Code": "OM",
+            "Name": "OMAN",
+            "PrintableName": "Oman",
+            "Code3": "OMN",
+            "NumCode": "512"
+        },
+        {
+            "Code": "PK",
+            "Name": "PAKISTAN",
+            "PrintableName": "Pakistan",
+            "Code3": "PAK",
+            "NumCode": "586"
+        },
+        {
+            "Code": "PW",
+            "Name": "PALAU",
+            "PrintableName": "Palau",
+            "Code3": "PLW",
+            "NumCode": "585"
+        },
+        {
+            "Code": "PS",
+            "Name": "PALESTINIAN TERRITORY, OCCUPIED",
+            "PrintableName": "Palestinian Territory, Occupied"
+        },
+        {
+            "Code": "PA",
+            "Name": "PANAMA",
+            "PrintableName": "Panama",
+            "Code3": "PAN",
+            "NumCode": "591"
+        },
+        {
+            "Code": "PG",
+            "Name": "PAPUA NEW GUINEA",
+            "PrintableName": "Papua New Guinea",
+            "Code3": "PNG",
+            "NumCode": "598"
+        },
+        {
+            "Code": "PY",
+            "Name": "PARAGUAY",
+            "PrintableName": "Paraguay",
+            "Code3": "PRY",
+            "NumCode": "600"
+        },
+        {
+            "Code": "PE",
+            "Name": "PERU",
+            "PrintableName": "Peru",
+            "Code3": "PER",
+            "NumCode": "604"
+        },
+        {
+            "Code": "PH",
+            "Name": "PHILIPPINES",
+            "PrintableName": "Philippines",
+            "Code3": "PHL",
+            "NumCode": "608"
+        },
+        {
+            "Code": "PN",
+            "Name": "PITCAIRN",
+            "PrintableName": "Pitcairn",
+            "Code3": "PCN",
+            "NumCode": "612"
+        },
+        {
+            "Code": "PL",
+            "Name": "POLAND",
+            "PrintableName": "Poland",
+            "Code3": "POL",
+            "NumCode": "616"
+        },
+        {
+            "Code": "PT",
+            "Name": "PORTUGAL",
+            "PrintableName": "Portugal",
+            "Code3": "PRT",
+            "NumCode": "620"
+        },
+        {
+            "Code": "QA",
+            "Name": "QATAR",
+            "PrintableName": "Qatar",
+            "Code3": "QAT",
+            "NumCode": "634"
+        },
+        {
+            "Code": "RS",
+            "Name": "REPUBLIC OF SERBIA",
+            "PrintableName": "Republic of Serbia"
+        },
+        {
+            "Code": "RE",
+            "Name": "REUNION",
+            "PrintableName": "Reunion",
+            "Code3": "REU",
+            "NumCode": "638"
+        },
+        {
+            "Code": "RO",
+            "Name": "ROMANIA",
+            "PrintableName": "Romania",
+            "Code3": "ROM",
+            "NumCode": "642"
+        },
+        {
+            "Code": "RU",
+            "Name": "RUSSIAN FEDERATION",
+            "PrintableName": "Russian Federation",
+            "Code3": "RUS",
+            "NumCode": "643"
+        },
+        {
+            "Code": "RW",
+            "Name": "RWANDA",
+            "PrintableName": "Rwanda",
+            "Code3": "RWA",
+            "NumCode": "646"
+        },
+        {
+            "Code": "SH",
+            "Name": "SAINT HELENA",
+            "PrintableName": "Saint Helena",
+            "Code3": "SHN",
+            "NumCode": "654"
+        },
+        {
+            "Code": "KN",
+            "Name": "SAINT KITTS AND NEVIS",
+            "PrintableName": "Saint Kitts and Nevis",
+            "Code3": "KNA",
+            "NumCode": "659"
+        },
+        {
+            "Code": "LC",
+            "Name": "SAINT LUCIA",
+            "PrintableName": "Saint Lucia",
+            "Code3": "LCA",
+            "NumCode": "662"
+        },
+        {
+            "Code": "PM",
+            "Name": "SAINT PIERRE AND MIQUELON",
+            "PrintableName": "Saint Pierre and Miquelon",
+            "Code3": "SPM",
+            "NumCode": "666"
+        },
+        {
+            "Code": "VC",
+            "Name": "SAINT VINCENT AND THE GRENADINES",
+            "PrintableName": "Saint Vincent and the Grenadines",
+            "Code3": "VCT",
+            "NumCode": "670"
+        },
+        {
+            "Code": "WS",
+            "Name": "SAMOA",
+            "PrintableName": "Samoa",
+            "Code3": "WSM",
+            "NumCode": "882"
+        },
+        {
+            "Code": "SM",
+            "Name": "SAN MARINO",
+            "PrintableName": "San Marino",
+            "Code3": "SMR",
+            "NumCode": "674"
+        },
+        {
+            "Code": "ST",
+            "Name": "SAO TOME AND PRINCIPE",
+            "PrintableName": "Sao Tome and Principe",
+            "Code3": "STP",
+            "NumCode": "678"
+        },
+        {
+            "Code": "SA",
+            "Name": "SAUDI ARABIA",
+            "PrintableName": "Saudi Arabia",
+            "Code3": "SAU",
+            "NumCode": "682"
+        },
+        {
+            "Code": "SN",
+            "Name": "SENEGAL",
+            "PrintableName": "Senegal",
+            "Code3": "SEN",
+            "NumCode": "686"
+        },
+        {
+            "Code": "SC",
+            "Name": "SEYCHELLES",
+            "PrintableName": "Seychelles",
+            "Code3": "SYC",
+            "NumCode": "690"
+        },
+        {
+            "Code": "SL",
+            "Name": "SIERRA LEONE",
+            "PrintableName": "Sierra Leone",
+            "Code3": "SLE",
+            "NumCode": "694"
+        },
+        {
+            "Code": "SG",
+            "Name": "SINGAPORE",
+            "PrintableName": "Singapore",
+            "Code3": "SGP",
+            "NumCode": "702"
+        },
+        {
+            "Code": "SX",
+            "Name": "SINT MAARTEN",
+            "PrintableName": "Sint Maarten (Dutch part)",
+            "Code3": "SXM",
+            "NumCode": "534"
+        },
+        {
+            "Code": "SK",
+            "Name": "SLOVAKIA",
+            "PrintableName": "Slovakia",
+            "Code3": "SVK",
+            "NumCode": "703"
+        },
+        {
+            "Code": "SI",
+            "Name": "SLOVENIA",
+            "PrintableName": "Slovenia",
+            "Code3": "SVN",
+            "NumCode": "705"
+        },
+        {
+            "Code": "SB",
+            "Name": "SOLOMON ISLANDS",
+            "PrintableName": "Solomon Islands",
+            "Code3": "SLB",
+            "NumCode": "90"
+        },
+        {
+            "Code": "SO",
+            "Name": "SOMALIA",
+            "PrintableName": "Somalia",
+            "Code3": "SOM",
+            "NumCode": "706"
+        },
+        {
+            "Code": "ZA",
+            "Name": "SOUTH AFRICA",
+            "PrintableName": "South Africa",
+            "Code3": "ZAF",
+            "NumCode": "710"
+        },
+        {
+            "Code": "GS",
+            "Name": "SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS",
+            "PrintableName": "South Georgia and the South Sandwich Islands"
+        },
+        {
+            "Code": "ES",
+            "Name": "SPAIN",
+            "PrintableName": "Spain",
+            "Code3": "ESP",
+            "NumCode": "724"
+        },
+        {
+            "Code": "LK",
+            "Name": "SRI LANKA",
+            "PrintableName": "Sri Lanka",
+            "Code3": "LKA",
+            "NumCode": "144"
+        },
+        {
+            "Code": "SD",
+            "Name": "SUDAN",
+            "PrintableName": "Sudan",
+            "Code3": "SDN",
+            "NumCode": "736"
+        },
+        {
+            "Code": "SR",
+            "Name": "SURINAME",
+            "PrintableName": "Suriname",
+            "Code3": "SUR",
+            "NumCode": "740"
+        },
+        {
+            "Code": "SJ",
+            "Name": "SVALBARD AND JAN MAYEN",
+            "PrintableName": "Svalbard and Jan Mayen",
+            "Code3": "SJM",
+            "NumCode": "744"
+        },
+        {
+            "Code": "SZ",
+            "Name": "SWAZILAND",
+            "PrintableName": "Swaziland",
+            "Code3": "SWZ",
+            "NumCode": "748"
+        },
+        {
+            "Code": "SE",
+            "Name": "SWEDEN",
+            "PrintableName": "Sweden",
+            "Code3": "SWE",
+            "NumCode": "752"
+        },
+        {
+            "Code": "CH",
+            "Name": "SWITZERLAND",
+            "PrintableName": "Switzerland",
+            "Code3": "CHE",
+            "NumCode": "756"
+        },
+        {
+            "Code": "SY",
+            "Name": "SYRIAN ARAB REPUBLIC",
+            "PrintableName": "Syrian Arab Republic",
+            "Code3": "SYR",
+            "NumCode": "760"
+        },
+        {
+            "Code": "TW",
+            "Name": "TAIWAN, PROVINCE OF CHINA",
+            "PrintableName": "Taiwan, Province of China",
+            "Code3": "TWN",
+            "NumCode": "158"
+        },
+        {
+            "Code": "TJ",
+            "Name": "TAJIKISTAN",
+            "PrintableName": "Tajikistan",
+            "Code3": "TJK",
+            "NumCode": "762"
+        },
+        {
+            "Code": "TZ",
+            "Name": "TANZANIA, UNITED REPUBLIC OF",
+            "PrintableName": "Tanzania, United Republic of",
+            "Code3": "TZA",
+            "NumCode": "834"
+        },
+        {
+            "Code": "TH",
+            "Name": "THAILAND",
+            "PrintableName": "Thailand",
+            "Code3": "THA",
+            "NumCode": "764"
+        },
+        {
+            "Code": "TL",
+            "Name": "TIMOR-LESTE",
+            "PrintableName": "Timor-Leste"
+        },
+        {
+            "Code": "TG",
+            "Name": "TOGO",
+            "PrintableName": "Togo",
+            "Code3": "TGO",
+            "NumCode": "768"
+        },
+        {
+            "Code": "TK",
+            "Name": "TOKELAU",
+            "PrintableName": "Tokelau",
+            "Code3": "TKL",
+            "NumCode": "772"
+        },
+        {
+            "Code": "TO",
+            "Name": "TONGA",
+            "PrintableName": "Tonga",
+            "Code3": "TON",
+            "NumCode": "776"
+        },
+        {
+            "Code": "TT",
+            "Name": "TRINIDAD AND TOBAGO",
+            "PrintableName": "Trinidad and Tobago",
+            "Code3": "TTO",
+            "NumCode": "780"
+        },
+        {
+            "Code": "TN",
+            "Name": "TUNISIA",
+            "PrintableName": "Tunisia",
+            "Code3": "TUN",
+            "NumCode": "788"
+        },
+        {
+            "Code": "TR",
+            "Name": "TURKEY",
+            "PrintableName": "Turkey",
+            "Code3": "TUR",
+            "NumCode": "792"
+        },
+        {
+            "Code": "TM",
+            "Name": "TURKMENISTAN",
+            "PrintableName": "Turkmenistan",
+            "Code3": "TKM",
+            "NumCode": "795"
+        },
+        {
+            "Code": "TC",
+            "Name": "TURKS AND CAICOS ISLANDS",
+            "PrintableName": "Turks and Caicos Islands",
+            "Code3": "TCA",
+            "NumCode": "796"
+        },
+        {
+            "Code": "TV",
+            "Name": "TUVALU",
+            "PrintableName": "Tuvalu",
+            "Code3": "TUV",
+            "NumCode": "798"
+        },
+        {
+            "Code": "UG",
+            "Name": "UGANDA",
+            "PrintableName": "Uganda",
+            "Code3": "UGA",
+            "NumCode": "800"
+        },
+        {
+            "Code": "UA",
+            "Name": "UKRAINE",
+            "PrintableName": "Ukraine",
+            "Code3": "UKR",
+            "NumCode": "804"
+        },
+        {
+            "Code": "AE",
+            "Name": "UNITED ARAB EMIRATES",
+            "PrintableName": "United Arab Emirates",
+            "Code3": "ARE",
+            "NumCode": "784"
+        },
+        {
+            "Code": "GB",
+            "Name": "UNITED KINGDOM",
+            "PrintableName": "United Kingdom",
+            "Code3": "GBR",
+            "NumCode": "826"
+        },
+        {
+            "Code": "UM",
+            "Name": "UNITED STATES MINOR OUTLYING ISLANDS",
+            "PrintableName": "United States Minor Outlying Islands"
+        },
+        {
+            "Code": "UY",
+            "Name": "URUGUAY",
+            "PrintableName": "Uruguay",
+            "Code3": "URY",
+            "NumCode": "858"
+        },
+        {
+            "Code": "UZ",
+            "Name": "UZBEKISTAN",
+            "PrintableName": "Uzbekistan",
+            "Code3": "UZB",
+            "NumCode": "860"
+        },
+        {
+            "Code": "VU",
+            "Name": "VANUATU",
+            "PrintableName": "Vanuatu",
+            "Code3": "VUT",
+            "NumCode": "548"
+        },
+        {
+            "Code": "VE",
+            "Name": "VENEZUELA",
+            "PrintableName": "Venezuela",
+            "Code3": "VEN",
+            "NumCode": "862"
+        },
+        {
+            "Code": "VN",
+            "Name": "VIETNAM",
+            "PrintableName": "Vietnam",
+            "Code3": "VNM",
+            "NumCode": "704"
+        },
+        {
+            "Code": "VG",
+            "Name": "VIRGIN ISLANDS, BRITISH",
+            "PrintableName": "Virgin Islands, British",
+            "Code3": "VGB",
+            "NumCode": "92"
+        },
+        {
+            "Code": "VI",
+            "Name": "VIRGIN ISLANDS, U.S.",
+            "PrintableName": "Virgin Islands, U.s.",
+            "Code3": "VIR",
+            "NumCode": "850"
+        },
+        {
+            "Code": "WF",
+            "Name": "WALLIS AND FUTUNA",
+            "PrintableName": "Wallis and Futuna",
+            "Code3": "WLF",
+            "NumCode": "876"
+        },
+        {
+            "Code": "EH",
+            "Name": "WESTERN SAHARA",
+            "PrintableName": "Western Sahara",
+            "Code3": "ESH",
+            "NumCode": "732"
+        },
+        {
+            "Code": "YE",
+            "Name": "YEMEN",
+            "PrintableName": "Yemen",
+            "Code3": "YEM",
+            "NumCode": "887"
+        },
+        {
+            "Code": "ZM",
+            "Name": "ZAMBIA",
+            "PrintableName": "Zambia",
+            "Code3": "ZMB",
+            "NumCode": "894"
+        },
+        {
+            "Code": "ZW",
+            "Name": "ZIMBABWE",
+            "PrintableName": "Zimbabwe",
+            "Code3": "ZWE",
+            "NumCode": "716"
+        }
+    ]
+}

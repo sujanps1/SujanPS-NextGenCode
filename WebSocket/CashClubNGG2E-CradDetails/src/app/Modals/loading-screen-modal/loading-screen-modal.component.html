@@ -1,0 +1,15 @@
+<div class="cc-modal-layout" [ngClass]="{ccmodallayoutheadervisible: headeravailable === true}" style="height: 100vh;"
+    *ngIf="isDisplay">
+    <div class="modal-dialog cc-modal">
+        <div class="modal-content">
+            <div class="modal-header container d-flex align-items-center justify-content-center">
+                <h5 class="cc-modal-header">{{Header}}</h5>
+            </div>
+            <div class="modal-body container d-flex align-items-center justify-content-center">
+                <lottie-player src="./assets/animations/load.json" background="transparent" speed="1"
+                    class="cc-modal-animation" loop autoplay>
+                </lottie-player>
+            </div>
+        </div>
+    </div>
+</div>

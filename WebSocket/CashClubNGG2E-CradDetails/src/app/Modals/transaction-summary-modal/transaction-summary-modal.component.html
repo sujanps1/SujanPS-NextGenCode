@@ -1,0 +1,68 @@
+<div class="cc-modal-layout" *ngIf="modalStatus">
+  <div class="modal-dialog cc-modal">
+    <div class="modal-content">
+      <div class="modal-header container d-flex align-items-center justify-content-center">
+        <h5 class="cc-modal-header">Transaction Summary</h5>
+      </div>
+      <div class="modal-body">
+        <div class="container d-flex align-items-center justify-content-center">
+          <p class="cc-modal-header-secondary">Please payout <span class="cc-header-value">${{amount}}</span> in <span
+              class="cc-header-value">{{payoutType | uppercase}}</span></p>
+        </div>
+        <div class="cc-modal-body container d-flex align-items-center justify-content-left">
+          <div class="container">
+            <div class="row">
+              <div class="col-9 d-flex flex-column mb-3">
+                <label for="transactionType" class="cc-fontbody">Transaction Type</label>
+                <label for="transactionTypeData" class="cc-heading2">{{transactionType}}</label>
+              </div>
+              <div class="col-3 d-flex flex-column mb-3">
+                <label for="amount" class="cc-fontbody">Amount</label>
+                <label for="amountValue" class="cc-heading2">${{amount}}</label>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-9 d-flex flex-column mb-3">
+                <label for="feeTier" class="cc-fontbody">Fee Tier</label>
+                <label for="feeTierData" class="cc-heading2">{{feeTier}}</label>
+              </div>
+              <div class="col-3 d-flex flex-column mb-3">
+                <label for="fee" class="cc-fontbody">Fee</label>
+                <label for="feeValue" class="float-end" class="cc-heading2">{{fee}}</label>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-9 d-flex flex-column mb-3">
+                <label for="payoutType" class="cc-fontbody">Payout Type</label>
+                <label for="payoutTypeData" class="cc-heading2">{{payoutType}}</label>
+              </div>
+              <div class="col-3 d-flex flex-column mb-3">
+                <label for="total" class="cc-fontbody">Total</label>
+                <label for="totalValue" class="cc-heading2">{{total}}</label>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-9 d-flex flex-column mb-3">
+                <label for="receiptSelection" class="cc-fontbody">Patron Receipt Selection</label>
+                <label for="receiptSelectionType" class="cc-heading2">{{patronReceiptSelection}}</label>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="modal-footer" style="margin-top:5%">
+        <div class="container">
+          <div class="row">
+            <div class="col-6 text-center">
+              <button class="cc-buttonsecondary" type="button" id="reprint" name="reprint"
+                (click)="onReprint()">Reprint</button>
+            </div>
+            <div class="col-6 text-center">
+              <button class="cc-buttonprimary" type="button" id="close" name="close" (click)="onClose()">Close</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
